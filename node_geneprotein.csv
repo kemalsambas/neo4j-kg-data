@@ -1,0 +1,282 @@
+gp_id,symbol,name,uniprot_id,source
+A6NDR6,MEIS3P1,Putative homeobox protein Meis3-like 1,A6NDR6,UniProt;GO
+A8K0S8,MEIS3P2,Putative homeobox protein Meis3-like 2,A8K0S8,UniProt;GO
+O00470,MEIS1,Homeobox protein Meis1,O00470,UniProt;GO
+O00522,KRIT1,Krev interaction trapped protein 1 (Krev interaction trapped 1) (Cerebral cavernous malformations 1 protein),O00522,UniProt;GO
+O00755,WNT7A,Protein Wnt-7a,O00755,UniProt;GO
+O14713,ITGB1BP1,Integrin beta-1-binding protein 1 (Integrin cytoplasmic domain-associated protein 1) (ICAP-1),O14713,UniProt;GO
+O14786,NRP1,Neuropilin-1 (Vascular endothelial cell growth factor 165 receptor) (CD antigen CD304),O14786,UniProt;GO
+O14944,EREG,Proepiregulin [Cleaved into: Epiregulin (EPR)],O14944,UniProt;GO
+O15041,SEMA3E,Semaphorin-3E,O15041,UniProt;GO
+O15123,ANGPT2,Angiopoietin-2 (ANG-2),O15123,UniProt;GO
+O15431,SLC31A1,High affinity copper uptake protein 1 (Copper transporter 1) (hCTR1) (Solute carrier family 31 member 1) [Cleaved into: Truncated CTR1 form],O15431,UniProt;GO
+O15520,FGF10,Fibroblast growth factor 10 (FGF-10) (Keratinocyte growth factor 2),O15520,UniProt;GO
+O43365,HOXA3,Homeobox protein Hox-A3 (Homeobox protein Hox-1E),O43365,UniProt;GO
+O43435,TBX1,T-box transcription factor TBX1 (T-box protein 1) (Testis-specific T-box protein),O43435,UniProt;GO
+O43508,TNFSF12,"Tumor necrosis factor ligand superfamily member 12 (APO3 ligand) (TNF-related weak inducer of apoptosis) (TWEAK) [Cleaved into: Tumor necrosis factor ligand superfamily member 12, membrane form; Tumor necrosis factor ligand superfamily member 12, secreted form]",O43508,UniProt;GO
+O43915,VEGFD,Vascular endothelial growth factor D (VEGF-D) (c-Fos-induced growth factor) (FIGF),O43915,UniProt;GO
+O60243,HS6ST1,Heparan-sulfate 6-O-sulfotransferase 1 (HS6ST-1) (EC 2.8.2.-),O60243,UniProt;GO
+O60462,NRP2,Neuropilin-2 (Vascular endothelial cell growth factor 165 receptor 2),O60462,UniProt;GO
+O60565,GREM1,"Gremlin-1 (Cell proliferation-inducing gene 2 protein) (Cysteine knot superfamily 1, BMP antagonist 1) (DAN domain family member 2) (Down-regulated in Mos-transformed cells protein) (Increased in high glucose protein 2) (IHG-2)",O60565,UniProt;GO
+O60687,SRPX2,Sushi repeat-containing protein SRPX2 (Sushi-repeat protein upregulated in leukemia),O60687,UniProt;GO
+O60894,RAMP1,Receptor activity-modifying protein 1 (Calcitonin-receptor-like receptor activity-modifying protein 1) (CRLR activity-modifying protein 1),O60894,UniProt;GO
+O60895,RAMP2,Receptor activity-modifying protein 2 (Calcitonin-receptor-like receptor activity-modifying protein 2) (CRLR activity-modifying protein 2),O60895,UniProt;GO
+O75340,PDCD6,Programmed cell death protein 6 (Apoptosis-linked gene 2 protein homolog) (ALG-2),O75340,UniProt;GO
+O75351,VPS4B,Vacuolar protein sorting-associated protein 4B (EC 3.6.4.6) (Cell migration-inducing gene 1 protein) (Suppressor of K(+) transport growth defect 1) (Protein SKD1),O75351,UniProt;GO
+O76093,FGF18,Fibroblast growth factor 18 (FGF-18) (zFGF5),O76093,UniProt;GO
+O95398,RAPGEF3,Rap guanine nucleotide exchange factor 3 (Exchange factor directly activated by cAMP 1) (Exchange protein directly activated by cAMP 1) (EPAC 1) (Rap1 guanine-nucleotide-exchange factor directly activated by cAMP) (cAMP-regulated guanine nucleotide exchange factor I) (cAMP-GEFI),O95398,UniProt;GO
+O95859,TSPAN12,Tetraspanin-12 (Tspan-12) (Tetraspan NET-2) (Transmembrane 4 superfamily member 12),O95859,UniProt;GO
+O95971,CD160,"CD160 antigen (Natural killer cell receptor BY55) (CD antigen CD160) [Cleaved into: CD160 antigen, soluble form]",O95971,UniProt;GO
+O96004,HAND1,"Heart- and neural crest derivatives-expressed protein 1 (Class A basic helix-loop-helix protein 27) (bHLHa27) (Extraembryonic tissues, heart, autonomic nervous system and neural crest derivatives-expressed protein 1) (eHAND)",O96004,UniProt;GO
+P01127,PDGFB,Platelet-derived growth factor subunit B (PDGF subunit B) (PDGF-2) (Platelet-derived growth factor B chain) (Platelet-derived growth factor beta polypeptide) (Proto-oncogene c-Sis) (Becaplermin),P01127,UniProt;GO
+P01133,EGF,Pro-epidermal growth factor (EGF) [Cleaved into: Epidermal growth factor (Urogastrone)],P01133,UniProt;GO
+P01135,TGFA,Protransforming growth factor alpha [Cleaved into: Transforming growth factor alpha (TGF-alpha) (EGF-like TGF) (ETGF) (TGF type 1)],P01135,UniProt;GO
+P02462,COL4A1,Collagen alpha-1(IV) chain [Cleaved into: Arresten],P02462,UniProt;GO
+P02751,FN1,Fibronectin (FN) (Cold-insoluble globulin) (CIG) [Cleaved into: Anastellin; Ugl-Y1; Ugl-Y2; Ugl-Y3],P02751,UniProt;GO
+P03950,ANG,Angiogenin (EC 3.1.27.-) (Ribonuclease 5) (RNase 5),P03950,UniProt;GO
+P04085,PDGFA,Platelet-derived growth factor subunit A (PDGF subunit A) (PDGF-1) (Platelet-derived growth factor A chain) (Platelet-derived growth factor alpha polypeptide),P04085,UniProt;GO
+P04196,HRG,Histidine-rich glycoprotein (Histidine-proline-rich glycoprotein) (HPRG),P04196,UniProt;GO
+P04216,THY1,Thy-1 membrane glycoprotein (CDw90) (Thy-1 antigen) (CD antigen CD90),P04216,UniProt;GO
+P05090,APOD,Apolipoprotein D (Apo-D) (ApoD),P05090,UniProt;GO
+P05106,ITGB3,Integrin beta-3 (Platelet membrane glycoprotein IIIa) (GPIIIa) (CD antigen CD61),P05106,UniProt;GO
+P05121,SERPINE1,Plasminogen activator inhibitor 1 (PAI) (PAI-1) (Endothelial plasminogen activator inhibitor) (Serpin E1),P05121,UniProt;GO
+P05230,FGF1,Fibroblast growth factor 1 (FGF-1) (Acidic fibroblast growth factor) (aFGF) (Endothelial cell growth factor) (ECGF) (Heparin-binding growth factor 1) (HBGF-1),P05230,UniProt;GO
+P05412,JUN,Transcription factor Jun (Activator protein 1) (AP1) (Proto-oncogene c-Jun) (Transcription factor AP-1 subunit Jun) (V-jun avian sarcoma virus 17 oncogene homolog) (p39),P05412,UniProt;GO
+P05556,ITGB1,Integrin beta-1 (Fibronectin receptor subunit beta) (Glycoprotein IIa) (GPIIA) (VLA-4 subunit beta) (CD antigen CD29),P05556,UniProt;GO
+P06576,ATP5F1B,"ATP synthase F(1) complex subunit beta, mitochondrial (EC 7.1.2.2) (ATP synthase F1 subunit beta)",P06576,UniProt;GO
+P06756,ITGAV,Integrin alpha-V (Vitronectin receptor) (Vitronectin receptor subunit alpha) (CD antigen CD51) [Cleaved into: Integrin alpha-V heavy chain; Integrin alpha-V light chain],P06756,UniProt;GO
+P07355,ANXA2,Annexin A2 (Annexin II) (Annexin-2) (Calpactin I heavy chain) (Calpactin-1 heavy chain) (Chromobindin-8) (Lipocortin II) (Placental anticoagulant protein IV) (PAP-IV) (Protein I) (p36),P07355,UniProt;GO
+P07996,THBS1,Thrombospondin-1 (Glycoprotein G),P07996,UniProt;GO
+P08253,MMP2,72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) (TBE-1) [Cleaved into: PEX],P08253,UniProt;GO
+P08514,ITGA2B,"Integrin alpha-IIb (GPalpha IIb) (GPIIb) (Platelet membrane glycoprotein IIb) (CD antigen CD41) [Cleaved into: Integrin alpha-IIb heavy chain; Integrin alpha-IIb light chain, form 1; Integrin alpha-IIb light chain, form 2]",P08514,UniProt;GO
+P08572,COL4A2,Collagen alpha-2(IV) chain [Cleaved into: Canstatin],P08572,UniProt;GO
+P08648,ITGA5,Integrin alpha-5 (CD49 antigen-like family member E) (Fibronectin receptor subunit alpha) (Integrin alpha-F) (VLA-5) (CD antigen CD49e) [Cleaved into: Integrin alpha-5 heavy chain; Integrin alpha-5 light chain],P08648,UniProt;GO
+P09038,FGF2,Fibroblast growth factor 2 (FGF-2) (Basic fibroblast growth factor) (bFGF) (Heparin-binding growth factor 2) (HBGF-2),P09038,UniProt;GO
+P09601,HMOX1,Heme oxygenase 1 (HO-1) (EC 1.14.14.18) [Cleaved into: Heme oxygenase 1 soluble form],P09601,UniProt;GO
+P09619,PDGFRB,Platelet-derived growth factor receptor beta (PDGF-R-beta) (PDGFR-beta) (EC 2.7.10.1) (Beta platelet-derived growth factor receptor) (Beta-type platelet-derived growth factor receptor) (CD140 antigen-like family member B) (Platelet-derived growth factor receptor 1) (PDGFR-1) (CD antigen CD140b),P09619,UniProt;GO
+P0DMC3,APELA,Apelin receptor early endogenous ligand (Protein Elabela) (ELA) (Protein Toddler),P0DMC3,UniProt;GO
+P10145,CXCL8,Interleukin-8 (IL-8) (C-X-C motif chemokine 8) (Chemokine (C-X-C motif) ligand 8) (Emoctakin) (Granulocyte chemotactic protein 1) (GCP-1) (Monocyte-derived neutrophil chemotactic factor) (MDNCF) (Monocyte-derived neutrophil-activating peptide) (MONAP) (Neutrophil-activating protein 1) (NAP-1) (Protein 3-10C) (T-cell chemotactic factor) [Cleaved into: MDNCF-a (GCP/IL-8 protein IV) (IL8/NAP1 form I); Interleukin-8 ((Ala-IL-8)77) (GCP/IL-8 protein II) (IL-8(1-77)) (IL8/NAP1 form II) (MDNCF-b); IL-8(5-77); IL-8(6-77) ((Ser-IL-8)72) (GCP/IL-8 protein I) (IL8/NAP1 form III) (Lymphocyte-derived neutrophil-activating factor) (LYNAP) (MDNCF-c) (Neutrophil-activating factor) (NAF); IL-8(7-77) (GCP/IL-8 protein V) (IL8/NAP1 form IV); IL-8(8-77) (GCP/IL-8 protein VI) (IL8/NAP1 form V); IL-8(9-77) (GCP/IL-8 protein III) (IL8/NAP1 form VI)],P10145,UniProt;GO
+P10767,FGF6,Fibroblast growth factor 6 (FGF-6) (Heparin secretory-transforming protein 2) (HST-2) (HSTF-2) (Heparin-binding growth factor 6) (HBGF-6),P10767,UniProt;GO
+P11362,FGFR1,Fibroblast growth factor receptor 1 (FGFR-1) (EC 2.7.10.1) (Basic fibroblast growth factor receptor 1) (BFGFR) (bFGF-R-1) (Fms-like tyrosine kinase 2) (FLT-2) (N-sam) (Proto-oncogene c-Fgr) (CD antigen CD331),P11362,UniProt;GO
+P12644,BMP4,Bone morphogenetic protein 4 (BMP-4) (Bone morphogenetic protein 2B) (BMP-2B),P12644,UniProt;GO
+P13500,CCL2,C-C motif chemokine 2 (HC11) (Monocyte chemoattractant protein 1) (Monocyte chemotactic and activating factor) (MCAF) (Monocyte chemotactic protein 1) (MCP-1) (Monocyte secretory protein JE) (Small-inducible cytokine A2),P13500,UniProt;GO
+P13521,SCG2,Secretogranin-2 (Chromogranin-C) (Secretogranin II) (SgII) [Cleaved into: Secretoneurin (SN); Manserin],P13521,UniProt;GO
+P13688,CEACAM1,Cell adhesion molecule CEACAM1 (Biliary glycoprotein 1) (BGP-1) (Carcinoembryonic antigen-related cell adhesion molecule 1) (CEA cell adhesion molecule 1) (CD antigen CD66a),P13688,UniProt;GO
+P14651,HOXB3,Homeobox protein Hox-B3 (Homeobox protein Hox-2.7) (Homeobox protein Hox-2G),P14651,UniProt;GO
+P15104,GLUL,Glutamine synthetase (GS) (EC 6.3.1.2) (Glutamate--ammonia ligase) (Palmitoyltransferase GLUL) (EC 2.3.1.225),P15104,UniProt;GO
+P15144,ANPEP,Aminopeptidase N (AP-N) (hAPN) (EC 3.4.11.2) (Alanyl aminopeptidase) (Aminopeptidase M) (AP-M) (Microsomal aminopeptidase) (Myeloid plasma membrane glycoprotein CD13) (gp150) (CD antigen CD13),P15144,UniProt;GO
+P15692,VEGFA,"Vascular endothelial growth factor A, long form (L-VEGF) (Vascular permeability factor) (VPF) [Cleaved into: N-VEGF; VEGFA]",P15692,UniProt;GO
+P16284,PECAM1,Platelet endothelial cell adhesion molecule (PECAM-1) (EndoCAM) (GPIIA') (PECA1) (CD antigen CD31),P16284,UniProt;GO
+P17252,PRKCA,Protein kinase C alpha type (PKC-A) (PKC-alpha) (EC 2.7.11.13),P17252,UniProt;GO
+P17342,NPR3,Atrial natriuretic peptide receptor 3 (Atrial natriuretic peptide clearance receptor) (Atrial natriuretic peptide receptor type C) (ANP-C) (ANPR-C) (NPR-C),P17342,UniProt;GO
+P17542,TAL1,T-cell acute lymphocytic leukemia protein 1 (TAL-1) (Class A basic helix-loop-helix protein 17) (bHLHa17) (Stem cell protein) (T-cell leukemia/lymphoma protein 5),P17542,UniProt;GO
+P17813,ENG,Endoglin (CD antigen CD105),P17813,UniProt;GO
+P17861,XBP1,"X-box-binding protein 1 (XBP-1) (Tax-responsive element-binding protein 5) (TREB-5) [Cleaved into: X-box-binding protein 1, cytoplasmic form; X-box-binding protein 1, luminal form]",P17861,UniProt;GO
+P17948,FLT1,Vascular endothelial growth factor receptor 1 (VEGFR-1) (EC 2.7.10.1) (Fms-like tyrosine kinase 1) (FLT-1) (Tyrosine-protein kinase FRT) (Tyrosine-protein kinase receptor FLT) (FLT) (Vascular permeability factor receptor),P17948,UniProt;GO
+P19338,NCL,Nucleolin (Protein C23),P19338,UniProt;GO
+P19971,TYMP,Thymidine phosphorylase (TP) (EC 2.4.2.4) (Gliostatin) (Platelet-derived endothelial cell growth factor) (PD-ECGF) (TdRPase),P19971,UniProt;GO
+P20800,EDN2,Endothelin-2 (ET-2) (Preproendothelin-2) (PPET2),P20800,UniProt;GO
+P20827,EFNA1,"Ephrin-A1 (EPH-related receptor tyrosine kinase ligand 1) (LERK-1) (Immediate early response protein B61) (Tumor necrosis factor alpha-induced protein 4) (TNF alpha-induced protein 4) [Cleaved into: Ephrin-A1, secreted form]",P20827,UniProt;GO
+P21453,S1PR1,Sphingosine 1-phosphate receptor 1 (S1P receptor 1) (S1P1) (Endothelial differentiation G-protein coupled receptor 1) (Sphingosine 1-phosphate receptor Edg-1) (S1P receptor Edg-1) (CD antigen CD363),P21453,UniProt;GO
+P21673,SAT1,Diamine acetyltransferase 1 (EC 2.3.1.57) (Polyamine N-acetyltransferase 1) (Putrescine acetyltransferase) (Spermidine/spermine N(1)-acetyltransferase 1) (SSAT) (SSAT-1),P21673,UniProt;GO
+P21709,EPHA1,Ephrin type-A receptor 1 (hEpha1) (EC 2.7.10.1) (EPH tyrosine kinase) (EPH tyrosine kinase 1) (Erythropoietin-producing hepatoma receptor) (Tyrosine-protein kinase receptor EPH),P21709,UniProt;GO
+P21802,FGFR2,Fibroblast growth factor receptor 2 (FGFR-2) (EC 2.7.10.1) (K-sam) (KGFR) (Keratinocyte growth factor receptor) (CD antigen CD332),P21802,UniProt;GO
+P23381,WARS1,"Tryptophan--tRNA ligase, cytoplasmic (EC 6.1.1.2) (Interferon-induced protein 53) (IFP53) (Tryptophanyl-tRNA synthetase) (TrpRS) (hWRS) [Cleaved into: T1-TrpRS; T2-TrpRS]",P23381,UniProt;GO
+P23467,PTPRB,Receptor-type tyrosine-protein phosphatase beta (Protein-tyrosine phosphatase beta) (R-PTP-beta) (EC 3.1.3.48) (Vascular endothelial protein tyrosine phosphatase) (VE-PTP),P23467,UniProt;GO
+P23582,NPPC,C-type natriuretic peptide [Cleaved into: CNP-22; CNP-29; CNP-53],P23582,UniProt;GO
+P25067,COL8A2,Collagen alpha-2(VIII) chain (Endothelial collagen),P25067,UniProt;GO
+P25101,EDNRA,Endothelin-1 receptor (Endothelin receptor type A) (ET-A) (ETA-R) (hET-AR),P25101,UniProt;GO
+P25106,ACKR3,Atypical chemokine receptor 3 (C-X-C chemokine receptor type 7) (CXC-R7) (CXCR-7) (Chemokine orphan receptor 1) (G-protein coupled receptor 159) (G-protein coupled receptor RDC1 homolog) (RDC-1),P25106,UniProt;GO
+P27658,COL8A1,Collagen alpha-1(VIII) chain (Endothelial collagen) [Cleaved into: Vastatin],P27658,UniProt;GO
+P29279,CCN2,CCN family member 2 (Cellular communication network factor 2) (Connective tissue growth factor) (Hypertrophic chondrocyte-specific protein 24) (Insulin-like growth factor-binding protein 8) (IBP-8) (IGF-binding protein 8) (IGFBP-8),P29279,UniProt;GO
+P29317,EPHA2,Ephrin type-A receptor 2 (EC 2.7.10.1) (Epithelial cell kinase) (Tyrosine-protein kinase receptor ECK),P29317,UniProt;GO
+P29323,EPHB2,Ephrin type-B receptor 2 (EC 2.7.10.1) (Developmentally-regulated Eph-related tyrosine kinase) (ELK-related tyrosine kinase) (EPH tyrosine kinase 3) (EPH-like kinase 5) (EK5) (hEK5) (Renal carcinoma antigen NY-REN-47) (Tyrosine-protein kinase TYRO5) (Tyrosine-protein kinase receptor EPH-3) [Cleaved into: EphB2/CTF1; EphB2/CTF2],P29323,UniProt;GO
+P29353,SHC1,SHC-transforming protein 1 (SHC-transforming protein 3) (SHC-transforming protein A) (Src homology 2 domain-containing-transforming protein C1) (SH2 domain protein C1),P29353,UniProt;GO
+P29474,NOS3,"Nitric oxide synthase 3 (EC 1.14.13.39) (Constitutive NOS) (cNOS) (EC-NOS) (NOS type III) (NOSIII) (Nitric oxide synthase, endothelial) (Endothelial NOS) (eNOS)",P29474,UniProt;GO
+P31151,S100A7,Protein S100-A7 (Psoriasin) (S100 calcium-binding protein A7),P31151,UniProt;GO
+P31268,HOXA7,Homeobox protein Hox-A7 (Homeobox protein Hox 1.1) (Homeobox protein Hox-1A),P31268,UniProt;GO
+P31371,FGF9,Fibroblast growth factor 9 (FGF-9) (Glia-activating factor) (GAF) (Heparin-binding growth factor 9) (HBGF-9),P31371,UniProt;GO
+P35222,CTNNB1,Catenin beta-1 (Beta-catenin),P35222,UniProt;GO
+P35398,RORA,Nuclear receptor ROR-alpha (Nuclear receptor RZR-alpha) (Nuclear receptor subfamily 1 group F member 1) (RAR-related orphan receptor A) (Retinoid-related orphan receptor-alpha),P35398,UniProt;GO
+P35414,APLNR,Apelin receptor (Angiotensin receptor-like 1) (G-protein coupled receptor APJ) (G-protein coupled receptor HG11),P35414,UniProt;GO
+P35579,MYH9,"Myosin-9 (Cellular myosin heavy chain, type A) (Myosin heavy chain 9) (Myosin heavy chain, non-muscle IIa) (Non-muscle myosin heavy chain A) (NMMHC-A) (Non-muscle myosin heavy chain IIa) (NMMHC II-a) (NMMHC-IIA)",P35579,UniProt;GO
+P35590,TIE1,Tyrosine-protein kinase receptor Tie-1 (EC 2.7.10.1),P35590,UniProt;GO
+P35613,BSG,Basigin (5F7) (Collagenase stimulatory factor) (Extracellular matrix metalloproteinase inducer) (EMMPRIN) (Hepatoma-associated antigen) (HAb18G) (Leukocyte activation antigen M6) (OK blood group antigen) (Tumor cell-derived collagenase stimulatory factor) (TCSF) (CD antigen CD147),P35613,UniProt;GO
+P35713,SOX18,Transcription factor SOX-18,P35713,UniProt;GO
+P35916,FLT4,Vascular endothelial growth factor receptor 3 (VEGFR-3) (EC 2.7.10.1) (Fms-like tyrosine kinase 4) (FLT-4) (Tyrosine-protein kinase receptor FLT4),P35916,UniProt;GO
+P35968,KDR,Vascular endothelial growth factor receptor 2 (VEGFR-2) (EC 2.7.10.1) (Fetal liver kinase 1) (FLK-1) (Kinase insert domain receptor) (KDR) (Protein-tyrosine kinase receptor flk-1) (CD antigen CD309),P35968,UniProt;GO
+P36382,GJA5,Gap junction alpha-5 protein (Connexin-40) (Cx40),P36382,UniProt;GO
+P36894,BMPR1A,Bone morphogenetic protein receptor type-1A (BMP type-1A receptor) (BMPR-1A) (EC 2.7.11.30) (Activin receptor-like kinase 3) (ALK-3) (Serine/threonine-protein kinase receptor R5) (SKR5) (CD antigen CD292),P36894,UniProt;GO
+P36897,TGFBR1,TGF-beta receptor type-1 (TGFR-1) (EC 2.7.11.30) (Activin A receptor type II-like protein kinase of 53kD) (Activin receptor-like kinase 5) (ALK-5) (ALK5) (Serine/threonine-protein kinase receptor R4) (SKR4) (TGF-beta type I receptor) (Transforming growth factor-beta receptor type I) (TGF-beta receptor type I) (TbetaR-I),P36897,UniProt;GO
+P37023,ACVRL1,Activin receptor type-1-like (EC 2.7.11.30) (Activin receptor-like kinase 1) (ALK-1) (Serine/threonine-protein kinase receptor R3) (SKR3) (TGF-B superfamily receptor type I) (TSR-I),P37023,UniProt;GO
+P39059,COL15A1,Collagen alpha-1(XV) chain [Cleaved into: Restin (Endostatin-XV) (Related to endostatin) (Restin-I); Restin-2 (Restin-II); Restin-3 (Restin-III); Restin-4 (Restin-IV)],P39059,UniProt;GO
+P39060,COL18A1,Collagen alpha-1(XVIII) chain [Cleaved into: Endostatin; Non-collagenous domain 1 (NC1)],P39060,UniProt;GO
+P41134,ID1,DNA-binding protein inhibitor ID-1 (Class B basic helix-loop-helix protein 24) (bHLHb24) (Inhibitor of DNA binding 1) (Inhibitor of differentiation 1),P41134,UniProt;GO
+P41159,LEP,Leptin (Obese protein) (Obesity factor),P41159,UniProt;GO
+P41970,ELK3,ETS domain-containing protein Elk-3 (ETS-related protein ERP) (ETS-related protein NET) (Serum response factor accessory protein 2) (SAP-2) (SRF accessory protein 2),P41970,UniProt;GO
+P42336,PIK3CA,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform (PI3-kinase subunit alpha) (PI3K-alpha) (PI3Kalpha) (PtdIns-3-kinase subunit alpha) (EC 2.7.1.137) (EC 2.7.1.153) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha) (PtdIns-3-kinase subunit p110-alpha) (p110alpha) (Phosphoinositide 3-kinase alpha) (Phosphoinositide-3-kinase catalytic alpha polypeptide) (Serine/threonine protein kinase PIK3CA) (EC 2.7.11.1)",P42336,UniProt;GO
+P43121,MCAM,Cell surface glycoprotein MUC18 (Cell surface glycoprotein P1H12) (Melanoma cell adhesion molecule) (Melanoma-associated antigen A32) (Melanoma-associated antigen MUC18) (S-endo 1 endothelial-associated antigen) (CD antigen CD146),P43121,UniProt;GO
+P43405,SYK,Tyrosine-protein kinase SYK (EC 2.7.10.2) (Spleen tyrosine kinase) (p72-Syk),P43405,UniProt;GO
+P46531,NOTCH1,Neurogenic locus notch homolog protein 1 (Notch 1) (hN1) (Translocation-associated notch protein TAN-1) [Cleaved into: Notch 1 extracellular truncation (NEXT); Notch 1 intracellular domain (NICD)],P46531,UniProt;GO
+P48357,LEPR,Leptin receptor (LEP-R) (HuB219) (OB receptor) (OB-R) (CD antigen CD295),P48357,UniProt;GO
+P48736,PIK3CG,"Phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit gamma isoform (PI3-kinase subunit gamma) (PI3K-gamma) (PI3Kgamma) (PtdIns-3-kinase subunit gamma) (EC 2.7.1.137) (EC 2.7.1.153) (EC 2.7.1.154) (Phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit gamma) (PtdIns-3-kinase subunit p110-gamma) (p110gamma) (Phosphoinositide-3-kinase catalytic gamma polypeptide) (Serine/threonine protein kinase PIK3CG) (EC 2.7.11.1) (p120-PI3K)",P48736,UniProt;GO
+P48745,CCN3,CCN family member 3 (Cellular communication network factor 3) (Insulin-like growth factor-binding protein 9) (IBP-9) (IGF-binding protein 9) (IGFBP-9) (Nephro blastoma-overexpressed gene protein homolog) (Protein NOV homolog) (NovH),P48745,UniProt;GO
+P49682,CXCR3,C-X-C chemokine receptor type 3 (CXC-R3) (CXCR-3) (CKR-L2) (G protein-coupled receptor 9) (Interferon-inducible protein 10 receptor) (IP-10 receptor) (CD antigen CD183),P49682,UniProt;GO
+P49685,GPR15,G-protein coupled receptor 15 (Brother of Bonzo) (BoB),P49685,UniProt;GO
+P49763,PGF,Placenta growth factor (PlGF),P49763,UniProt;GO
+P49767,VEGFC,Vascular endothelial growth factor C (VEGF-C) (Flt4 ligand) (Flt4-L) (Vascular endothelial growth factor-related protein) (VRP),P49767,UniProt;GO
+P50222,MEOX2,Homeobox protein MOX-2 (Growth arrest-specific homeobox) (Mesenchyme homeobox 2),P50222,UniProt;GO
+P50281,MMP14,Matrix metalloproteinase-14 (MMP-14) (EC 3.4.24.80) (MMP-X1) (Membrane-type matrix metalloproteinase 1) (MT-MMP 1) (MTMMP1) (Membrane-type-1 matrix metalloproteinase) (MT1-MMP) (MT1MMP),P50281,UniProt;GO
+P50895,BCAM,Basal cell adhesion molecule (Auberger B antigen) (B-CAM cell surface glycoprotein) (F8/G253 antigen) (Lutheran antigen) (Lutheran blood group glycoprotein) (CD antigen CD239),P50895,UniProt;GO
+P51817,PRKX,cAMP-dependent protein kinase catalytic subunit PRKX (PrKX) (Protein kinase X) (Protein kinase X-linked) (Serine/threonine-protein kinase PRKX) (EC 2.7.11.1) (Protein kinase PKX1),P51817,UniProt;GO
+P52735,VAV2,Guanine nucleotide exchange factor VAV2 (VAV-2),P52735,UniProt;GO
+P52799,EFNB2,Ephrin-B2 (EPH-related receptor tyrosine kinase ligand 5) (LERK-5) (HTK ligand) (HTK-L),P52799,UniProt;GO
+P54753,EPHB3,Ephrin type-B receptor 3 (EC 2.7.10.1) (EPH-like tyrosine kinase 2) (EPH-like kinase 2) (Embryonic kinase 2) (EK2) (hEK2) (Tyrosine-protein kinase TYRO6),P54753,UniProt;GO
+P54760,EPHB4,Ephrin type-B receptor 4 (EC 2.7.10.1) (Hepatoma transmembrane kinase) (Tyrosine-protein kinase TYRO11),P54760,UniProt;GO
+P54762,EPHB1,Ephrin type-B receptor 1 (EC 2.7.10.1) (ELK) (EPH tyrosine kinase 2) (EPH-like kinase 6) (EK6) (hEK6) (Neuronally-expressed EPH-related tyrosine kinase) (NET) (Tyrosine-protein kinase receptor EPH-2),P54762,UniProt;GO
+P55347,PKNOX1,Homeobox protein PKNOX1 (Homeobox protein PREP-1) (PBX/knotted homeobox 1),P55347,UniProt;GO
+P57082,TBX4,T-box transcription factor TBX4 (T-box protein 4),P57082,UniProt;GO
+P58294,PROK1,Prokineticin-1 (Endocrine-gland-derived vascular endothelial growth factor) (EG-VEGF) (Mambakine),P58294,UniProt;GO
+P58400,NRXN1,Neurexin-1-beta (Neurexin I-beta),P58400,UniProt;GO
+P59773,MINAR2,Major intrinsically disordered NOTCH2-binding receptor 1-like (Major intrinsically disordered NOTCH2-associated receptor 2) (Membrane integral NOTCH2-associated receptor 2),P59773,UniProt;GO
+P61296,HAND2,"Heart- and neural crest derivatives-expressed protein 2 (Class A basic helix-loop-helix protein 26) (bHLHa26) (Deciduum, heart, autonomic nervous system and neural crest derivatives-expressed protein 2) (dHAND)",P61296,UniProt;GO
+P62745,RHOB,Rho-related GTP-binding protein RhoB (Rho cDNA clone 6) (h6),P62745,UniProt;GO
+P63104,YWHAZ,14-3-3 protein zeta/delta (Protein kinase C inhibitor protein 1) (KCIP-1),P63104,UniProt;GO
+P63261,ACTG1,"Actin, cytoplasmic 2 (EC 3.6.4.-) (Gamma-actin) [Cleaved into: Actin, cytoplasmic 2, N-terminally processed]",P63261,UniProt;GO
+P78325,ADAM8,Disintegrin and metalloproteinase domain-containing protein 8 (ADAM 8) (EC 3.4.24.-) (Cell surface antigen MS2) (CD antigen CD156a),P78325,UniProt;GO
+P78362,SRPK2,SRSF protein kinase 2 (EC 2.7.11.1) (SFRS protein kinase 2) (Serine/arginine-rich protein-specific kinase 2) (SR-protein-specific kinase 2) [Cleaved into: SRSF protein kinase 2 N-terminal; SRSF protein kinase 2 C-terminal],P78362,UniProt;GO
+P78504,JAG1,Protein jagged-1 (Jagged1) (hJ1) (CD antigen CD339),P78504,UniProt;GO
+P98160,HSPG2,Basement membrane-specific heparan sulfate proteoglycan core protein (HSPG) (Perlecan) (PLC) [Cleaved into: Endorepellin; LG3 peptide],P98160,UniProt;GO
+Q00604,NDP,Norrin (Norrie disease protein) (X-linked exudative vitreoretinopathy 2 protein),Q00604,UniProt;GO
+Q02763,TEK,Angiopoietin-1 receptor (EC 2.7.10.1) (Endothelial tyrosine kinase) (Tunica interna endothelial cell kinase) (Tyrosine kinase with Ig and EGF homology domains-2) (Tyrosine-protein kinase receptor TEK) (Tyrosine-protein kinase receptor TIE-2) (hTIE2) (p140 TEK) (CD antigen CD202b),Q02763,UniProt;GO
+Q03135,CAV1,Caveolin-1,Q03135,UniProt;GO
+Q03169,TNFAIP2,Tumor necrosis factor alpha-induced protein 2 (TNF alpha-induced protein 2) (Primary response gene B94 protein),Q03169,UniProt;GO
+Q05397,PTK2,Focal adhesion kinase 1 (FADK 1) (EC 2.7.10.2) (Focal adhesion kinase-related nonkinase) (FRNK) (Protein phosphatase 1 regulatory subunit 71) (PPP1R71) (Protein-tyrosine kinase 2) (p125FAK) (pp125FAK),Q05397,UniProt;GO
+Q06330,RBPJ,Recombining binding protein suppressor of hairless (CBF-1) (J kappa-recombination signal-binding protein) (RBP-J kappa) (RBP-J) (RBP-JK) (Renal carcinoma antigen NY-REN-30),Q06330,UniProt;GO
+Q07075,ENPEP,Glutamyl aminopeptidase (EAP) (EC 3.4.11.7) (Aminopeptidase A) (AP-A) (Differentiation antigen gp160) (CD antigen CD249),Q07075,UniProt;GO
+Q08431,MFGE8,Lactadherin (Breast epithelial antigen BA46) (HMFG) (MFGM) (Milk fat globule-EGF factor 8) (MFG-E8) (SED1) [Cleaved into: Lactadherin short form; Medin],Q08431,UniProt;GO
+Q08722,CD47,Leukocyte surface antigen CD47 (Antigenic surface determinant protein OA3) (Integrin-associated protein) (IAP) (Protein MER6) (CD antigen CD47),Q08722,UniProt;GO
+Q12884,FAP,"Prolyl endopeptidase FAP (EC 3.4.21.26) (170 kDa melanoma membrane-bound gelatinase) (Dipeptidyl peptidase FAP) (EC 3.4.14.5) (Fibroblast activation protein alpha) (FAPalpha) (Gelatine degradation protease FAP) (EC 3.4.21.-) (Integral membrane serine protease) (Post-proline cleaving enzyme) (Serine integral membrane protease) (SIMP) (Surface-expressed protease) (Seprase) [Cleaved into: Antiplasmin-cleaving enzyme FAP, soluble form (APCE) (EC 3.4.14.5) (EC 3.4.21.-) (EC 3.4.21.26)]",Q12884,UniProt;GO
+Q12904,AIMP1,Aminoacyl tRNA synthase complex-interacting multifunctional protein 1 (Multisynthase complex auxiliary component p43) [Cleaved into: Endothelial monocyte-activating polypeptide 2 (EMAP-2) (Endothelial monocyte-activating polypeptide II) (EMAP-II) (Small inducible cytokine subfamily E member 1)],Q12904,UniProt;GO
+Q12913,PTPRJ,Receptor-type tyrosine-protein phosphatase eta (Protein-tyrosine phosphatase eta) (R-PTP-eta) (EC 3.1.3.48) (Density-enhanced phosphatase 1) (DEP-1) (HPTP eta) (Protein-tyrosine phosphatase receptor type J) (R-PTP-J) (CD antigen CD148),Q12913,UniProt;GO
+Q12948,FOXC1,Forkhead box protein C1 (Forkhead-related protein FKHL7) (Forkhead-related transcription factor 3) (FREAC-3),Q12948,UniProt;GO
+Q13370,PDE3B,"cGMP-inhibited 3',5'-cyclic phosphodiesterase 3B (EC 3.1.4.17) (CGIPDE1) (CGIP1) (Cyclic GMP-inhibited phosphodiesterase B) (CGI-PDE B)",Q13370,UniProt;GO
+Q13444,ADAM15,"Disintegrin and metalloproteinase domain-containing protein 15 (ADAM 15) (EC 3.4.24.-) (Metalloprotease RGD disintegrin protein) (Metalloproteinase-like, disintegrin-like, and cysteine-rich protein 15) (MDC-15) (Metargidin)",Q13444,UniProt;GO
+Q13467,FZD5,Frizzled-5 (Fz-5) (hFz5) (FzE5),Q13467,UniProt;GO
+Q13480,GAB1,GRB2-associated-binding protein 1 (GRB2-associated binder 1) (Growth factor receptor bound protein 2-associated protein 1),Q13480,UniProt;GO
+Q13685,AAMP,Angio-associated migratory cell protein,Q13685,UniProt;GO
+Q13887,KLF5,Krueppel-like factor 5 (Basic transcription element-binding protein 2) (BTE-binding protein 2) (Colon krueppel-like factor) (GC-box-binding protein 2) (Intestinal-enriched krueppel-like factor) (Transcription factor BTEB2),Q13887,UniProt;GO
+Q14116,IL18,Interleukin-18 (IL-18) (Iboctadekin) (Interferon gamma-inducing factor) (IFN-gamma-inducing factor) (Interleukin-1 gamma) (IL-1 gamma),Q14116,UniProt;GO
+Q14119,VEZF1,Vascular endothelial zinc finger 1 (Putative transcription factor DB1) (Zinc finger protein 161),Q14119,UniProt;GO
+Q14289,PTK2B,Protein-tyrosine kinase 2-beta (EC 2.7.10.2) (Calcium-dependent tyrosine kinase) (CADTK) (Calcium-regulated non-receptor proline-rich tyrosine kinase) (Cell adhesion kinase beta) (CAK-beta) (CAKB) (Focal adhesion kinase 2) (FADK 2) (Proline-rich tyrosine kinase 2) (Related adhesion focal tyrosine kinase) (RAFTK),Q14289,UniProt;GO
+Q14344,GNA13,Guanine nucleotide-binding protein subunit alpha-13 (G alpha-13) (G-protein subunit alpha-13),Q14344,UniProt;GO
+Q14790,CASP8,Caspase-8 (CASP-8) (EC 3.4.22.61) (Apoptotic cysteine protease) (Apoptotic protease Mch-5) (CAP4) (FADD-homologous ICE/ced-3-like protease) (FADD-like ICE) (FLICE) (ICE-like apoptotic protease 5) (MORT1-associated ced-3 homolog) (MACH) [Cleaved into: Caspase-8 subunit p18; Caspase-8 subunit p10],Q14790,UniProt;GO
+Q15139,PRKD1,Serine/threonine-protein kinase D1 (EC 2.7.11.13) (Protein kinase C mu type) (Protein kinase D) (nPKC-D1) (nPKC-mu),Q15139,UniProt;GO
+Q15389,ANGPT1,Angiopoietin-1 (ANG-1),Q15389,UniProt;GO
+Q15464,SHB,SH2 domain-containing adapter protein B,Q15464,UniProt;GO
+Q15465,SHH,Sonic hedgehog protein (SHH) (EC 3.1.-.-) (HHG-1) (Shh unprocessed N-terminal signaling and C-terminal autoprocessing domains) (ShhNC) [Cleaved into: Sonic hedgehog protein N-product (ShhN) (Shh N-terminal processed signaling domains) (ShhNp)],Q15465,UniProt;GO
+Q15582,TGFBI,Transforming growth factor-beta-induced protein ig-h3 (Beta ig-h3) (Kerato-epithelin) (RGD-containing collagen-associated protein) (RGD-CAP),Q15582,UniProt;GO
+Q15648,MED1,Mediator of RNA polymerase II transcription subunit 1 (Activator-recruited cofactor 205 kDa component) (ARC205) (Mediator complex subunit 1) (Peroxisome proliferator-activated receptor-binding protein) (PBP) (PPAR-binding protein) (Thyroid hormone receptor-associated protein complex 220 kDa component) (Trap220) (Thyroid receptor-interacting protein 2) (TR-interacting protein 2) (TRIP-2) (Vitamin D receptor-interacting protein complex component DRIP205) (p53 regulatory protein RB18A),Q15648,UniProt;GO
+Q16270,IGFBP7,Insulin-like growth factor-binding protein 7 (IBP-7) (IGF-binding protein 7) (IGFBP-7) (IGFBP-rP1) (MAC25 protein) (PGI2-stimulating factor) (Prostacyclin-stimulating factor) (Tumor-derived adhesion factor) (TAF),Q16270,UniProt;GO
+Q16539,MAPK14,Mitogen-activated protein kinase 14 (MAP kinase 14) (MAPK 14) (EC 2.7.11.24) (Cytokine suppressive anti-inflammatory drug-binding protein) (CSAID-binding protein) (CSBP) (MAP kinase MXI2) (MAX-interacting protein 2) (Mitogen-activated protein kinase p38 alpha) (MAP kinase p38 alpha) (Stress-activated protein kinase 2a) (SAPK2a),Q16539,UniProt;GO
+Q16602,CALCRL,Calcitonin gene-related peptide type 1 receptor (CGRP type 1 receptor) (Calcitonin receptor-like receptor) (CRLR),Q16602,UniProt;GO
+Q16610,ECM1,Extracellular matrix protein 1 (Secretory component p85),Q16610,UniProt;GO
+Q16665,HIF1A,Hypoxia-inducible factor 1-alpha (HIF-1-alpha) (HIF1-alpha) (ARNT-interacting protein) (Basic-helix-loop-helix-PAS protein MOP1) (Class E basic helix-loop-helix protein 78) (bHLHe78) (Member of PAS protein 1) (PAS domain-containing protein 8),Q16665,UniProt;GO
+Q16678,CYP1B1,Cytochrome P450 1B1 (EC 1.14.14.1) (CYPIB1) (Hydroperoxy icosatetraenoate dehydratase) (EC 4.2.1.152),Q16678,UniProt;GO
+Q19T08,ECSCR,Endothelial cell-specific chemotaxis regulator (Apoptosis regulator through modulating IAP expression) (ARIA) (Endothelial cell-specific molecule 2),Q19T08,UniProt;GO
+Q4VCS5,AMOT,Angiomotin,Q4VCS5,UniProt;GO
+Q5D1E8,ZC3H12A,Endoribonuclease ZC3H12A (EC 3.1.-.-) (Monocyte chemotactic protein-induced protein 1) (MCP-induced protein 1) (MCPIP-1) (Regnase-1) (Reg1) (Zinc finger CCCH domain-containing protein 12A),Q5D1E8,UniProt;GO
+Q5SNT2,TMEM201,Transmembrane protein 201 (Spindle-associated membrane protein 1),Q5SNT2,UniProt;GO
+Q5U651,RASIP1,Ras-interacting protein 1 (Rain),Q5U651,UniProt;GO
+Q5UCC4,EMC10,ER membrane protein complex subunit 10 (Hematopoietic signal peptide-containing membrane domain-containing protein 1),Q5UCC4,UniProt;GO
+Q5UE93,PIK3R6,Phosphoinositide 3-kinase regulatory subunit 6 (Phosphoinositide 3-kinase gamma adapter protein of 87 kDa) (p84 PI3K adapter protein) (p84 PIKAP) (p87 PI3K adapter protein) (p87PIKAP),Q5UE93,UniProt;GO
+Q5VWQ8,DAB2IP,Disabled homolog 2-interacting protein (DAB2 interaction protein) (DAB2-interacting protein) (ASK-interacting protein 1) (AIP-1) (DOC-2/DAB-2 interactive protein),Q5VWQ8,UniProt;GO
+Q63HN8,RNF213,E3 ubiquitin-protein ligase RNF213 (EC 2.3.2.27) (EC 3.6.4.-) (ALK lymphoma oligomerization partner on chromosome 17) (E3 ubiquitin-lipopolysaccharide ligase RNF213) (EC 2.3.2.-) (Mysterin) (RING finger protein 213),Q63HN8,UniProt;GO
+Q68D42,TMEM215,Transmembrane protein 215,Q68D42,UniProt;GO
+Q6UVK1,CSPG4,Chondroitin sulfate proteoglycan 4 (Chondroitin sulfate proteoglycan NG2) (Melanoma chondroitin sulfate proteoglycan) (Melanoma-associated chondroitin sulfate proteoglycan),Q6UVK1,UniProt;GO
+Q6UW88,EPGN,Epigen (Epithelial mitogen) (EPG),Q6UW88,UniProt;GO
+Q6UXB2,CXCL17,C-X-C motif chemokine 17 (6-Cys CXCL17) (Dendritic cell and monocyte chemokine-like protein) (DMC) (VEGF coregulated chemokine 1) [Cleaved into: 4-Cys CXCL17],Q6UXB2,UniProt;GO
+Q6UXH8,CCBE1,Collagen and calcium-binding EGF domain-containing protein 1 (Full of fluid protein homolog),Q6UXH8,UniProt;GO
+Q7L8A9,VASH1,Tubulinyl-Tyr carboxypeptidase 1 (EC 3.4.17.17) (Tubulin carboxypeptidase 1) (Tyrosine carboxypeptidase 1) (TTCP 1) (Vasohibin-1),Q7L8A9,UniProt;GO
+Q7Z4H4,ADM2,Protein ADM2 (Intermedin) [Cleaved into: Adrenomedullin-2 (AM2) (Intermedin-long) (IMDL); Intermedin-short (IMDS)],Q7Z4H4,UniProt;GO
+Q7Z5H3,ARHGAP22,Rho GTPase-activating protein 22 (Rho-type GTPase-activating protein 22),Q7Z5H3,UniProt;GO
+Q86Y25,ZNF354C,"Zinc finger protein 354C (Kidney, ischemia, and developmentally-regulated protein 3) (hKID3)",Q86Y25,UniProt;GO
+Q8IUK5,PLXDC1,Plexin domain-containing protein 1 (Tumor endothelial marker 3) (Tumor endothelial marker 7),Q8IUK5,UniProt;GO
+Q8IVF7,FMNL3,Formin-like protein 3 (Formin homology 2 domain-containing protein 3) (WW domain-binding protein 3) (WBP-3),Q8IVF7,UniProt;GO
+Q8IY63,AMOTL1,Angiomotin-like protein 1,Q8IY63,UniProt;GO
+Q8IZJ1,UNC5B,Netrin receptor UNC5B (Protein unc-5 homolog 2) (Protein unc-5 homolog B) (p53-regulated receptor for death and life protein 1) (p53RDL1),Q8IZJ1,UniProt;GO
+Q8N264,ARHGAP24,Rho GTPase-activating protein 24 (Filamin-A-associated RhoGAP) (FilGAP) (RAC1- and CDC42-specific GTPase-activating protein of 72 kDa) (RC-GAP72) (Rho-type GTPase-activating protein 24) (RhoGAP of 73 kDa) (Sarcoma antigen NY-SAR-88) (p73RhoGAP),Q8N264,UniProt;GO
+Q8N302,AGGF1,Angiogenic factor with G patch and FHA domains 1 (Angiogenic factor VG5Q) (hVG5Q) (G patch domain-containing protein 7) (Vasculogenesis gene on 5q protein),Q8N302,UniProt;GO
+Q8N3E9,PLCD3,"1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase delta-3 (EC 3.1.4.11) (Phosphoinositide phospholipase C-delta-3) (Phospholipase C-delta-3) (PLC-delta-3)",Q8N3E9,UniProt;GO
+Q8NHC4,OR10J5,Olfactory receptor 10J5 (Olfactory receptor OR1-28),Q8NHC4,UniProt;GO
+Q8NI99,ANGPTL6,Angiopoietin-related protein 6 (Angiopoietin-like protein 6) (Angiopoietin-related growth factor) (Angiopoietin-related protein 5),Q8NI99,UniProt;GO
+Q8TB73,NDNF,Protein NDNF (Neuron-derived neurotrophic factor),Q8TB73,UniProt;GO
+Q8WWQ8,STAB2,"Stabilin-2 (FAS1 EGF-like and X-link domain-containing adhesion molecule 2) (Fasciclin, EGF-like, laminin-type EGF-like and link domain-containing scavenger receptor 2) (FEEL-2) (Hyaluronan receptor for endocytosis) [Cleaved into: 190 kDa form stabilin-2 (190 kDa hyaluronan receptor for endocytosis)]",Q8WWQ8,UniProt;GO
+Q8WZ75,ROBO4,Roundabout homolog 4 (Magic roundabout),Q8WZ75,UniProt;GO
+Q92626,PXDN,Peroxidasin homolog (EC 1.11.2.-) (Melanoma-associated antigen MG50) (Peroxidasin 1) (hsPxd01) (Vascular peroxidase 1) (p53-responsive gene 2 protein) [Cleaved into: PXDN active fragment],Q92626,UniProt;GO
+Q92823,NRCAM,Neuronal cell adhesion molecule (Nr-CAM) (Neuronal surface protein Bravo) (hBravo) (NgCAM-related cell adhesion molecule) (Ng-CAM-related),Q92823,UniProt;GO
+Q92826,HOXB13,Homeobox protein Hox-B13,Q92826,UniProt;GO
+Q92982,NINJ1,Ninjurin-1 (hNINJ1) (Nerve injury-induced protein 1) [Cleaved into: Secreted ninjurin-1 (Soluble ninjurin-1)],Q92982,UniProt;GO
+Q969H8,MYDGF,Myeloid-derived growth factor (MYDGF),Q969H8,UniProt;GO
+Q96BN8,OTULIN,Ubiquitin thioesterase otulin (EC 3.4.19.12) (Deubiquitinating enzyme otulin) (OTU domain-containing deubiquitinase with linear linkage specificity) (Ubiquitin thioesterase Gumby),Q96BN8,UniProt;GO
+Q96E22,NUS1,Dehydrodolichyl diphosphate synthase complex subunit NUS1 (EC 2.5.1.87) (Cis-prenyltransferase subunit NgBR) (Nogo-B receptor) (NgBR) (Nuclear undecaprenyl pyrophosphate synthase 1 homolog),Q96E22,UniProt;GO
+Q96EB6,SIRT1,NAD-dependent protein deacetylase sirtuin-1 (hSIRT1) (EC 2.3.1.286) (NAD-dependent protein deacylase sirtuin-1) (EC 2.3.1.-) (Regulatory protein SIR2 homolog 1) (SIR2-like protein 1) (hSIR2) [Cleaved into: SirtT1 75 kDa fragment (75SirT1)],Q96EB6,UniProt;GO
+Q96LR9,APOLD1,Apolipoprotein L domain-containing protein 1 (Vascular early response gene protein),Q96LR9,UniProt;GO
+Q96MM6,HSPA12B,Heat shock 70 kDa protein 12B (Heat shock protein family A member 12B),Q96MM6,UniProt;GO
+Q96PE1,ADGRA2,Adhesion G protein-coupled receptor A2 (G-protein coupled receptor 124) (Tumor endothelial marker 5),Q96PE1,UniProt;GO
+Q96PH1,NOX5,NADPH oxidase 5 (EC 1.6.3.-),Q96PH1,UniProt;GO
+Q99542,MMP19,Matrix metalloproteinase-19 (MMP-19) (EC 3.4.24.-) (Matrix metalloproteinase RASI) (Matrix metalloproteinase-18) (MMP-18),Q99542,UniProt;GO
+Q99687,MEIS3,Homeobox protein Meis3 (Meis1-related protein 2),Q99687,UniProt;GO
+Q99814,EPAS1,Endothelial PAS domain-containing protein 1 (EPAS-1) (Basic-helix-loop-helix-PAS protein MOP2) (Class E basic helix-loop-helix protein 73) (bHLHe73) (HIF-1-alpha-like factor) (HLF) (Hypoxia-inducible factor 2-alpha) (HIF-2-alpha) (HIF2-alpha) (Member of PAS protein 2) (PAS domain-containing protein 2),Q99814,UniProt;GO
+Q99828,CIB1,Calcium and integrin-binding protein 1 (CIB) (Calcium- and integrin-binding protein) (CIBP) (Calmyrin) (DNA-PKcs-interacting protein) (Kinase-interacting protein) (KIP) (SNK-interacting protein 2-28) (SIP2-28),Q99828,UniProt;GO
+Q9BRP0,OVOL2,Transcription factor Ovo-like 2 (hOvo2) (Zinc finger protein 339),Q9BRP0,UniProt;GO
+Q9BUL8,PDCD10,Programmed cell death protein 10 (Cerebral cavernous malformations 3 protein) (TF-1 cell apoptosis-related protein 15),Q9BUL8,UniProt;GO
+Q9BX67,JAM3,Junctional adhesion molecule C (JAM-C) (JAM-2) (Junctional adhesion molecule 3) (JAM-3) [Cleaved into: Soluble form of JAM-C (sJAM-C)],Q9BX67,UniProt;GO
+Q9BXJ9,NAA15,"N-alpha-acetyltransferase 15, NatA auxiliary subunit (Gastric cancer antigen Ga19) (N-terminal acetyltransferase) (NMDA receptor-regulated protein 1) (Protein tubedown-1) (Tbdn100)",Q9BXJ9,UniProt;GO
+Q9BXY4,RSPO3,R-spondin-3 (Protein with TSP type-1 repeat) (hPWTSR) (Roof plate-specific spondin-3) (hRspo3) (Thrombospondin type-1 domain-containing protein 2),Q9BXY4,UniProt;GO
+Q9BY76,ANGPTL4,Angiopoietin-related protein 4 (Angiopoietin-like protein 4) (Hepatic fibrinogen/angiopoietin-related protein) (HFARP) [Cleaved into: ANGPTL4 N-terminal chain; ANGPTL4 C-terminal chain],Q9BY76,UniProt;GO
+Q9BZ23,PANK2,"Pantothenate kinase 2, mitochondrial (hPanK2) (EC 2.7.1.33) (Pantothenic acid kinase 2) [Cleaved into: Pantothenate kinase 2, mitochondrial intermediate form (iPanK2); Pantothenate kinase 2, mitochondrial mature form (mPanK2)]",Q9BZ23,UniProt;GO
+Q9BZL6,PRKD2,Serine/threonine-protein kinase D2 (EC 2.7.11.13) (nPKC-D2),Q9BZL6,UniProt;GO
+Q9H2J4,PDCL3,Phosducin-like protein 3 (HTPHLP) (PhPL3) (Viral IAP-associated factor 1) (VIAF-1),Q9H2J4,UniProt;GO
+Q9H3S1,SEMA4A,Semaphorin-4A (Semaphorin-B) (Sema B),Q9H3S1,UniProt;GO
+Q9H461,FZD8,Frizzled-8 (Fz-8) (hFz8),Q9H461,UniProt;GO
+Q9H488,POFUT1,GDP-fucose protein O-fucosyltransferase 1 (EC 2.4.1.221) (Peptide-O-fucosyltransferase 1) (O-FucT-1),Q9H488,UniProt;GO
+Q9H4E5,RHOJ,Rho-related GTP-binding protein RhoJ (Ras-like protein family member 7B) (Tc10-like GTP-binding protein),Q9H4E5,UniProt;GO
+Q9H6E4,CCDC134,Coiled-coil domain-containing protein 134,Q9H6E4,UniProt;GO
+Q9H6I2,SOX17,Transcription factor SOX-17,Q9H6I2,UniProt;GO
+Q9H6U6,BCAS3,BCAS3 microtubule associated cell migration factor (Breast carcinoma-amplified sequence 3) (GAOB1),Q9H6U6,UniProt;GO
+Q9H8L6,MMRN2,Multimerin-2 (EMILIN-3) (Elastin microfibril interface located protein 3) (Elastin microfibril interfacer 3) (EndoGlyx-1 p125/p140 subunit),Q9H8L6,UniProt;GO
+Q9HC23,PROK2,Prokineticin-2 (PK2) (Protein Bv8 homolog),Q9HC23,UniProt;GO
+Q9HCX3,ZNF304,Zinc finger protein 304 (KRAB-containing zinc finger protein),Q9HCX3,UniProt;GO
+Q9HDB5,NRXN3,"Neurexin-3-beta (Neurexin III-beta) [Cleaved into: Neurexin-3-beta, soluble form; Neurexin-3-beta, C-terminal fragment (NRXN3-CTF)]",Q9HDB5,UniProt;GO
+Q9NP31,SH2D2A,SH2 domain-containing protein 2A (SH2 domain-containing adapter protein) (T cell-specific adapter protein) (TSAd) (VEGF receptor-associated protein),Q9NP31,UniProt;GO
+Q9NP84,TNFRSF12A,Tumor necrosis factor receptor superfamily member 12A (Fibroblast growth factor-inducible immediate-early response protein 14) (FGF-inducible 14) (Tweak-receptor) (TweakR) (CD antigen CD266),Q9NP84,UniProt;GO
+Q9NPY3,CD93,Complement component C1q receptor (C1q/MBL/SPA receptor) (C1qR) (C1qR(p)) (C1qRp) (CDw93) (Complement component 1 q subcomponent receptor 1) (Matrix-remodeling-associated protein 4) (CD antigen CD93),Q9NPY3,UniProt;GO
+Q9NQ30,ESM1,Endothelial cell-specific molecule 1 (ESM-1),Q9NQ30,UniProt;GO
+Q9NR61,DLL4,Delta-like protein 4 (Drosophila Delta homolog 4) (Delta4),Q9NR61,UniProt;GO
+Q9NS00,C1GALT1,"Glycoprotein-N-acetylgalactosamine 3-beta-galactosyltransferase 1 (EC 2.4.1.122) (B3Gal-T8) (Core 1 O-glycan T-synthase) (Core 1 UDP-galactose:N-acetylgalactosamine-alpha-R beta 1,3-galactosyltransferase 1) (Beta-1,3-galactosyltransferase) (Core 1 beta1,3-galactosyltransferase 1) (C1GalT1) (Core 1 beta3-Gal-T1)",Q9NS00,UniProt;GO
+Q9NV29,TMEM100,Transmembrane protein 100,Q9NV29,UniProt;GO
+Q9NVD7,PARVA,Alpha-parvin (Actopaxin) (CH-ILKBP) (Calponin-like integrin-linked kinase-binding protein) (Matrix-remodeling-associated protein 2),Q9NVD7,UniProt;GO
+Q9NZ08,ERAP1,Endoplasmic reticulum aminopeptidase 1 (EC 3.4.11.-) (ARTS-1) (Adipocyte-derived leucine aminopeptidase) (A-LAP) (Aminopeptidase PILS) (Puromycin-insensitive leucyl-specific aminopeptidase) (PILS-AP) (Type 1 tumor necrosis factor receptor shedding aminopeptidase regulator),Q9NZ08,UniProt;GO
+Q9NZI7,UBP1,Upstream-binding protein 1 (Transcription factor LBP-1),Q9NZI7,UniProt;GO
+Q9NZJ5,EIF2AK3,Eukaryotic translation initiation factor 2-alpha kinase 3 (EC 2.7.11.1) (PRKR-like endoplasmic reticulum kinase) (Pancreatic eIF2-alpha kinase) (HsPEK) (Protein tyrosine kinase EIF2AK3) (EC 2.7.10.2),Q9NZJ5,UniProt;GO
+Q9UHF1,EGFL7,Epidermal growth factor-like protein 7 (EGF-like protein 7) (Multiple epidermal growth factor-like domains protein 7) (Multiple EGF-like domains protein 7) (NOTCH4-like protein) (Vascular endothelial statin) (VE-statin) (Zneu1),Q9UHF1,UniProt;GO
+Q9UHN6,CEMIP2,Cell surface hyaluronidase CEMIP2 (EC 3.2.1.35) (Cell migration-inducing hyaluronidase 2) (Transmembrane protein 2),Q9UHN6,UniProt;GO
+Q9UHW9,SLC12A6,Solute carrier family 12 member 6 (Electroneutral potassium-chloride cotransporter 3) (K-Cl cotransporter 3),Q9UHW9,UniProt;GO
+Q9UII2,ATP5IF1,"ATPase inhibitor, mitochondrial (ATP synthase F1 subunit epsilon) (Inhibitor of F(1)F(o)-ATPase) (IF(1)) (IF1)",Q9UII2,UniProt;GO
+Q9UK05,GDF2,Growth/differentiation factor 2 (GDF-2) (Bone morphogenetic protein 9) (BMP-9),Q9UK05,UniProt;GO
+Q9UKW4,VAV3,Guanine nucleotide exchange factor VAV3 (VAV-3),Q9UKW4,UniProt;GO
+Q9ULV1,FZD4,Frizzled-4 (Fz-4) (hFz4) (FzE4) (CD antigen CD344),Q9ULV1,UniProt;GO
+Q9ULZ1,APLN,Apelin (APJ endogenous ligand) [Cleaved into: Apelin-36; Apelin-31; Apelin-28; Apelin-13],Q9ULZ1,UniProt;GO
+Q9UPX6,MINAR1,Major intrinsically disordered Notch2-binding receptor 1 (Membrane integral NOTCH2-associated receptor 1) (Ubiquitination and mTOR signaling protein),Q9UPX6,UniProt;GO
+Q9UPZ6,THSD7A,"Thrombospondin type-1 domain-containing protein 7A [Cleaved into: Thrombospondin type-1 domain-containing protein 7A, soluble form]",Q9UPZ6,UniProt;GO
+Q9Y264,ANGPT4,Angiopoietin-4 (ANG-4) (Angiopoietin-3) (ANG-3),Q9Y264,UniProt;GO
+Q9Y2J4,AMOTL2,Angiomotin-like protein 2 (Leman coiled-coil protein) (LCCP),Q9Y2J4,UniProt;GO
+Q9Y2N7,HIF3A,Hypoxia-inducible factor 3-alpha (HIF-3-alpha) (HIF3-alpha) (Basic-helix-loop-helix-PAS protein MOP7) (Class E basic helix-loop-helix protein 17) (bHLHe17) (HIF3-alpha-1) (Inhibitory PAS domain protein) (IPAS) (Member of PAS protein 7) (PAS domain-containing protein 7),Q9Y2N7,UniProt;GO
+Q9Y4D7,PLXND1,Plexin-D1,Q9Y4D7,UniProt;GO
+Q9Y5C1,ANGPTL3,Angiopoietin-related protein 3 (Angiopoietin-5) (ANG-5) (Angiopoietin-like protein 3) [Cleaved into: ANGPTL3(17-221); ANGPTL3(17-224)],Q9Y5C1,UniProt;GO
+Q9Y5J3,HEY1,Hairy/enhancer-of-split related with YRPW motif protein 1 (Cardiovascular helix-loop-helix factor 2) (CHF-2) (Class B basic helix-loop-helix protein 31) (bHLHb31) (HES-related repressor protein 1) (Hairy and enhancer of split-related protein 1) (HESR-1) (Hairy-related transcription factor 1) (HRT-1) (hHRT1),Q9Y5J3,UniProt;GO
+Q9Y5S8,NOX1,NADPH oxidase 1 (NOX-1) (EC 1.6.3.-) (Mitogenic oxidase 1) (MOX-1) (NADH/NADPH mitogenic oxidase subunit P65-MOX) (NOH-1),Q9Y5S8,UniProt;GO
+Q9Y653,ADGRG1,"Adhesion G-protein coupled receptor G1 (G-protein coupled receptor 56) [Cleaved into: Adhesion G-protein coupled receptor G1, N-terminal fragment (ADGRG1 N-terminal fragment) (ADGRG1 NT) (GPR56 N-terminal fragment) (GPR56 NT) (GPR56(N)) (GPR56 extracellular subunit) (GPR56 subunit alpha); Adhesion G-protein coupled receptor G1, C-terminal fragment (ADGRG1 C-terminal fragment) (ADGRG1 CT) (GPR56 C-terminal fragment) (GPR56 CT) (GPR56(C)) (GPR56 seven-transmembrane subunit) (GPR56 7TM) (GPR56 subunit beta)]",Q9Y653,UniProt;GO
+Q9Y696,CLIC4,Chloride intracellular channel protein 4 (Glutaredoxin-like oxidoreductase CLIC4) (EC 1.8.-.-) (Intracellular chloride ion channel protein p64H1),Q9Y696,UniProt;GO
+Q9Y6W5,WASF2,Actin-binding protein WASF2 (Protein WAVE-2) (Verprolin homology domain-containing protein 2) (Wiskott-Aldrich syndrome protein family member 2) (WASP family protein member 2),Q9Y6W5,UniProt;GO
