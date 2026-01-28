@@ -1,0 +1,151 @@
+compound_id,adr_id,adr_term
+CHEMBL1336,C0002170,Alopecia
+CHEMBL1336,C0002871,Anaemia
+CHEMBL1336,C0002994,Angioedema
+CHEMBL1336,C0003123,Anorexia
+CHEMBL1336,C0232462,Decreased appetite
+CHEMBL1336,C0003811,Arrhythmia
+CHEMBL1336,C0003862,Arthralgia
+CHEMBL1336,C0948594,Musculoskeletal discomfort
+CHEMBL1336,C0003962,Ascites
+CHEMBL1336,C0004093,Asthenia
+CHEMBL1336,C0006430,Burning mouth syndrome
+CHEMBL1336,C0007097,Carcinoma
+CHEMBL1336,C0007137,Squamous cell carcinoma
+CHEMBL1336,C0007787,Transient ischaemic attack
+CHEMBL1336,C0008311,Cholangitis
+CHEMBL1336,C0008325,Cholecystitis
+CHEMBL1336,C0009806,Constipation
+CHEMBL1336,C0011168,Dysphagia
+CHEMBL1336,C0011175,Dehydration
+CHEMBL1336,C0011606,Dermatitis exfoliative
+CHEMBL1336,C0011991,Diarrhoea
+CHEMBL1336,C0013378,Dysgeusia
+CHEMBL1336,C0013395,Dyspepsia
+CHEMBL1336,C0013404,Dyspnoea
+CHEMBL1336,C0013595,Eczema
+CHEMBL1336,C0014518,Toxic epidermal necrolysis
+CHEMBL1336,C0014591,Epistaxis
+CHEMBL1336,C0014742,Erythema multiforme
+CHEMBL1336,C0014867,Varices oesophageal
+CHEMBL1336,C0015230,Rash
+CHEMBL1336,C0011603,Dermatitis
+CHEMBL1336,C0015672,Fatigue
+CHEMBL1336,C0016382,Flushing
+CHEMBL1336,C0016436,Folliculitis
+CHEMBL1336,C0017152,Gastritis
+CHEMBL1336,C0017168,Gastrooesophageal reflux disease
+CHEMBL1336,C0018418,Gynaecomastia
+CHEMBL1336,C0018681,Headache
+CHEMBL1336,C0018801,Cardiac failure
+CHEMBL1336,C0018802,Cardiac failure congestive
+CHEMBL1336,C0018944,Haematoma
+CHEMBL1336,C0019080,Haemorrhage
+CHEMBL1336,C0518015,Haemoglobin
+CHEMBL1336,C0019825,Hoarseness
+CHEMBL1336,C1527344,Dysphonia
+CHEMBL1336,C0020517,Hypersensitivity
+CHEMBL1336,C0020538,Hypertension
+CHEMBL1336,C0020550,Hyperthyroidism
+CHEMBL1336,C0020598,Hypocalcaemia
+CHEMBL1336,C0020621,Hypokalaemia
+CHEMBL1336,C0020625,Hyponatraemia
+CHEMBL1336,C0020676,Hypothyroidism
+CHEMBL1336,C0021308,Infarction
+CHEMBL1336,C0022116,Ischaemia
+CHEMBL1336,C0022346,Jaundice
+CHEMBL1336,C0022572,Keratoacanthoma
+CHEMBL1336,C0022660,Renal failure acute
+CHEMBL1336,C0023530,Leukopenia
+CHEMBL1336,C0024312,Lymphopenia
+CHEMBL1336,C0027051,Myocardial infarction
+CHEMBL1336,C0948089,Acute coronary syndrome
+CHEMBL1336,C0027497,Nausea
+CHEMBL1336,C0027726,Nephrotic syndrome
+CHEMBL1336,C0027947,Neutropenia
+CHEMBL1336,C0030305,Pancreatitis
+CHEMBL1336,C0032227,Pleural effusion
+CHEMBL1336,C0033687,Proteinuria
+CHEMBL1336,C0948586,Protein urine present
+CHEMBL1336,C0033774,Pruritus
+CHEMBL1336,C0035078,Renal failure
+CHEMBL1336,C0035410,Rhabdomyolysis
+CHEMBL1336,C0037763,Muscle spasms
+CHEMBL1336,C0038325,Stevens-Johnson syndrome
+CHEMBL1336,C0038362,Stomatitis
+CHEMBL1336,C0038363,Aphthous stomatitis
+CHEMBL1336,C0039070,Syncope
+CHEMBL1336,C0012833,Dizziness
+CHEMBL1336,C0040034,Thrombocytopenia
+CHEMBL1336,C0040038,Thromboembolism
+CHEMBL1336,C0013922,Embolism
+CHEMBL1336,C0340726,Embolism venous
+CHEMBL1336,C0040264,Tinnitus
+CHEMBL1336,C0041834,Erythema
+CHEMBL1336,C0042109,Urticaria
+CHEMBL1336,C0042373,Angiopathy
+CHEMBL1336,C0042376,Vascular headache
+CHEMBL1336,C0042963,Vomiting
+CHEMBL1336,C0043096,Weight decreased
+CHEMBL1336,C0043352,Dry mouth
+CHEMBL1336,C0085605,Hepatic failure
+CHEMBL1336,C0085682,Hypophosphataemia
+CHEMBL1336,C0086565,Hepatic function abnormal
+CHEMBL1336,C0149745,Mouth ulceration
+CHEMBL1336,C0149937,Acute interstitial nephritis
+CHEMBL1336,C0041349,Tubulointerstitial nephritis
+CHEMBL1336,C0151313,Peripheral sensory neuropathy
+CHEMBL1336,C0151436,Allergic cutaneous angiitis
+CHEMBL1336,C2973529,Leukocytoclastic vasculitis
+CHEMBL1336,C0151479,Amylase increased
+CHEMBL1336,C0151664,Gastrointestinal perforation
+CHEMBL1336,C0151744,Myocardial ischaemia
+CHEMBL1336,C0151904,Aspartate aminotransferase increased
+CHEMBL1336,C0151905,Alanine aminotransferase increased
+CHEMBL1336,C0151908,Dry skin
+CHEMBL1336,C0159066,Abdominal rigidity
+CHEMBL1336,C0162119,Haemoglobin decreased
+CHEMBL1336,C0206062,Interstitial lung disease
+CHEMBL1336,C0206063,Radiation pneumonitis
+CHEMBL1336,C0686377,Metastases to central nervous system
+CHEMBL1336,C0231528,Myalgia
+CHEMBL1336,C0232487,Abdominal discomfort
+CHEMBL1336,C0232498,Abdominal tenderness
+CHEMBL1336,C0237849,Skin exfoliation
+CHEMBL1336,C0239981,Hypoalbuminaemia
+CHEMBL1336,C0242350,Erectile dysfunction
+CHEMBL1336,C0242656,Disease progression
+CHEMBL1336,C0267792,Hepatobiliary disease
+CHEMBL1336,C0270612,Leukoencephalopathy
+CHEMBL1336,C0277884,Blood pressure systolic increased
+CHEMBL1336,C0278678,Metastatic renal cell carcinoma
+CHEMBL1336,C0311468,Blood bilirubin increased
+CHEMBL1336,C0333355,Mucosal inflammation
+CHEMBL1336,C0426576,Gastrointestinal symptom NOS
+CHEMBL1336,C0442874,Neuropathy
+CHEMBL1336,C0031117,Neuropathy peripheral
+CHEMBL1336,C0476273,Respiratory distress
+CHEMBL1336,C0497247,Blood pressure increased
+CHEMBL1336,C0549475,Lipase increased
+CHEMBL1336,C0553723,Squamous cell carcinoma of skin
+CHEMBL1336,C0580417,International normalised ratio abnormal
+CHEMBL1336,C0586553,Thyrotropin high
+CHEMBL1336,C0853019,Blood thyroid stimulating hormone increased
+CHEMBL1336,C0857751,Erythema multiforme minor
+CHEMBL1336,C0860700,Prothrombin level abnormal
+CHEMBL1336,C0860866,Potassium low
+CHEMBL1336,C0853761,Blood potassium decreased
+CHEMBL1336,C0870082,Hyperkeratosis
+CHEMBL1336,C1096082,Oesophageal discomfort
+CHEMBL1336,C1260880,Rhinorrhoea
+CHEMBL1336,C0027441,Nasopharyngitis
+CHEMBL1336,C1262760,Drug-induced hepatitis
+CHEMBL1336,C0860207,Drug-induced liver injury
+CHEMBL1336,C1720798,Radiation recall reaction (dermatologic)
+CHEMBL1336,C1262013,Recall phenomenon
+CHEMBL1336,C2239176,Hepatocellular carcinoma
+CHEMBL1336,C2363730,Oropharyngeal discomfort
+CHEMBL1336,C2711248,Osteonecrosis of jaw
+CHEMBL1336,C2937358,Cerebral haemorrhage
+CHEMBL1336,C2939186,Mood alteration NOS
+CHEMBL1336,C0085633,Mood swings
