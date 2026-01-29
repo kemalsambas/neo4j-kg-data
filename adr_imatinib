@@ -1,0 +1,265 @@
+compound_id,adr_id,adr_term
+CHEMBL941,C0000731,Abdominal distension
+CHEMBL941,C0001824,Agranulocytosis
+CHEMBL941,C0002170,Alopecia
+CHEMBL941,C0002871,Anaemia
+CHEMBL941,C0002874,Aplastic anaemia
+CHEMBL941,C0002878,Haemolytic anaemia
+CHEMBL941,C0002962,Angina pectoris
+CHEMBL941,C0002994,Angioedema
+CHEMBL941,C0232462,Decreased appetite
+CHEMBL941,C0003467,Anxiety
+CHEMBL941,C0003811,Arrhythmia
+CHEMBL941,C0003862,Arthralgia
+CHEMBL941,C0948594,Musculoskeletal discomfort
+CHEMBL941,C0003864,Arthritis
+CHEMBL941,C0003962,Ascites
+CHEMBL941,C0004093,Asthenia
+CHEMBL941,C0004238,Atrial fibrillation
+CHEMBL941,C0005699,Blast cell crisis
+CHEMBL941,C0005741,Blepharitis
+CHEMBL941,C1527311,Brain oedema
+CHEMBL941,C0007177,Cardiac tamponade
+CHEMBL941,C0007971,Cheilitis
+CHEMBL941,C0009319,Colitis
+CHEMBL941,C0009676,Confusional state
+CHEMBL941,C1443060,Feeling abnormal
+CHEMBL941,C0009760,Conjunctival haemorrhage
+CHEMBL941,C0009763,Conjunctivitis
+CHEMBL941,C0009806,Constipation
+CHEMBL941,C0009938,Contusion
+CHEMBL941,C0010709,Cyst
+CHEMBL941,C0030312,Pancytopenia
+CHEMBL941,C0855242,Disturbance in sexual arousal
+CHEMBL941,C0011124,Libido decreased
+CHEMBL941,C0011168,Dysphagia
+CHEMBL941,C0011175,Dehydration
+CHEMBL941,C0011570,Depression
+CHEMBL941,C0011603,Dermatitis
+CHEMBL941,C0011606,Dermatitis exfoliative
+CHEMBL941,C0011609,Drug eruption
+CHEMBL941,C0011991,Diarrhoea
+CHEMBL941,C0012813,Diverticulitis
+CHEMBL941,C0012833,Dizziness
+CHEMBL941,C0013378,Dysgeusia
+CHEMBL941,C0013395,Dyspepsia
+CHEMBL941,C0013404,Dyspnoea
+CHEMBL941,C0013491,Ecchymosis
+CHEMBL941,C0013595,Eczema
+CHEMBL941,C0013604,Oedema
+CHEMBL941,C0013922,Embolism
+CHEMBL941,C0014457,Eosinophilia
+CHEMBL941,C0014518,Toxic epidermal necrolysis
+CHEMBL941,C0014591,Epistaxis
+CHEMBL941,C0014724,Eructation
+CHEMBL941,C0014742,Erythema multiforme
+CHEMBL941,C0014868,Oesophagitis
+CHEMBL941,C0015230,Rash
+CHEMBL941,C0015672,Fatigue
+CHEMBL941,C0016204,Flatulence
+CHEMBL941,C0016382,Flushing
+CHEMBL941,C0016436,Folliculitis
+CHEMBL941,C0017152,Gastritis
+CHEMBL941,C0017160,Gastroenteritis
+CHEMBL941,C0017168,Gastrooesophageal reflux disease
+CHEMBL941,C0017181,Gastrointestinal haemorrhage
+CHEMBL941,C0017601,Glaucoma
+CHEMBL941,C0018099,Gout
+CHEMBL941,C0018418,Gynaecomastia
+CHEMBL941,C0018681,Headache
+CHEMBL941,C0018790,Cardiac arrest
+CHEMBL941,C0018801,Cardiac failure
+CHEMBL941,C0018802,Cardiac failure congestive
+CHEMBL941,C0018926,Haematemesis
+CHEMBL941,C0018944,Haematoma
+CHEMBL941,C0018946,Subdural haematoma
+CHEMBL941,C0018965,Haematuria
+CHEMBL941,C0019080,Haemorrhage
+CHEMBL941,C0019158,Hepatitis
+CHEMBL941,C0020433,Hyperbilirubinaemia
+CHEMBL941,C0020437,Hypercalcaemia
+CHEMBL941,C0020456,Hyperglycaemia
+CHEMBL941,C0020461,Hyperkalaemia
+CHEMBL941,C0020517,Hypersensitivity
+CHEMBL941,C0020538,Hypertension
+CHEMBL941,C0020542,Pulmonary hypertension
+CHEMBL941,C0020580,Hypoaesthesia
+CHEMBL941,C0020598,Hypocalcaemia
+CHEMBL941,C0020615,Hypoglycaemia
+CHEMBL941,C0020621,Hypokalaemia
+CHEMBL941,C0020625,Hyponatraemia
+CHEMBL941,C0020639,Hypoproteinaemia
+CHEMBL941,C0020649,Hypotension
+CHEMBL941,C0020678,Hypotrichosis
+CHEMBL941,C0021390,Inflammatory bowel disease
+CHEMBL941,C0021843,Intestinal obstruction
+CHEMBL941,C0022346,Jaundice
+CHEMBL941,C0022660,Renal failure acute
+CHEMBL941,C0023380,Lethargy
+CHEMBL941,C0023473,Chronic myeloid leukaemia
+CHEMBL941,C0023530,Leukopenia
+CHEMBL941,C0023646,Lichen planus
+CHEMBL941,C0024312,Lymphopenia
+CHEMBL941,C0024899,Mastocytosis
+CHEMBL941,C0025222,Melaena
+CHEMBL941,C0025323,Menorrhagia
+CHEMBL941,C0037763,Muscle spasms
+CHEMBL941,C0026848,Myopathy
+CHEMBL941,C0027051,Myocardial infarction
+CHEMBL941,C0948089,Acute coronary syndrome
+CHEMBL941,C0027441,Nasopharyngitis
+CHEMBL941,C0027497,Nausea
+CHEMBL941,C0027540,Necrosis
+CHEMBL941,C0027543,Necrosis ischaemic
+CHEMBL941,C0029445,Osteonecrosis
+CHEMBL941,C0027947,Neutropenia
+CHEMBL941,C0028081,Night sweats
+CHEMBL941,C0029134,Optic neuritis
+CHEMBL941,C0030252,Palpitations
+CHEMBL941,C0030305,Pancreatitis
+CHEMBL941,C0030353,Papilloedema
+CHEMBL941,C0030554,Paraesthesia
+CHEMBL941,C0031039,Pericardial effusion
+CHEMBL941,C0031046,Pericarditis
+CHEMBL941,C0031117,Neuropathy peripheral
+CHEMBL941,C0031256,Petechiae
+CHEMBL941,C0031350,Pharyngitis
+CHEMBL941,C0032227,Pleural effusion
+CHEMBL941,C0032584,Polyp
+CHEMBL941,C0033774,Pruritus
+CHEMBL941,C0033860,Psoriasis
+CHEMBL941,C0034063,Pulmonary oedema
+CHEMBL941,C0034069,Pulmonary fibrosis
+CHEMBL941,C1368065,Vascular purpura
+CHEMBL941,C0034150,Purpura
+CHEMBL941,C0035078,Renal failure
+CHEMBL941,C0035258,Restless legs syndrome
+CHEMBL941,C0035317,Retinal haemorrhage
+CHEMBL941,C0035410,Rhabdomyolysis
+CHEMBL941,C0035455,Rhinitis
+CHEMBL941,C0036396,Sciatica
+CHEMBL941,C0036572,Convulsion
+CHEMBL941,C0037199,Sinusitis
+CHEMBL941,C0038325,Stevens-Johnson syndrome
+CHEMBL941,C0038358,Gastric ulcer
+CHEMBL941,C0038362,Stomatitis
+CHEMBL941,C0020458,Hyperhidrosis
+CHEMBL941,C0039070,Syncope
+CHEMBL941,C0039231,Tachycardia
+CHEMBL941,C0040034,Thrombocytopenia
+CHEMBL941,C0040053,Thrombosis
+CHEMBL941,C0040264,Tinnitus
+CHEMBL941,C0040822,Tremor
+CHEMBL941,C0041364,Tumour lysis syndrome
+CHEMBL941,C0041582,Ulcer
+CHEMBL941,C0041834,Erythema
+CHEMBL941,C0042023,Pollakiuria
+CHEMBL941,C0042109,Urticaria
+CHEMBL941,C0042373,Angiopathy
+CHEMBL941,C0042384,Vasculitis
+CHEMBL941,C0042571,Vertigo
+CHEMBL941,C0042909,Vitreous haemorrhage
+CHEMBL941,C0042963,Vomiting
+CHEMBL941,C0043094,Weight increased
+CHEMBL941,C0043096,Weight decreased
+CHEMBL941,C0043352,Dry mouth
+CHEMBL941,C0085077,Acute febrile neutrophilic dermatosis
+CHEMBL941,C0085593,Chills
+CHEMBL941,C0085605,Hepatic failure
+CHEMBL941,C0085641,Rash pustular
+CHEMBL941,C0085649,Oedema peripheral
+CHEMBL941,C0085682,Hypophosphataemia
+CHEMBL941,C0086543,Cataract
+CHEMBL941,C0149745,Mouth ulceration
+CHEMBL941,C0149904,Hepatitis cholestatic
+CHEMBL941,C0149931,Migraine
+CHEMBL941,C0151205,Periorbital oedema
+CHEMBL941,C2973529,Leukocytoclastic vasculitis
+CHEMBL941,C0853034,Blood creatine phosphokinase increased
+CHEMBL941,C0235431,Blood creatinine increased
+CHEMBL941,C0268000,Fluid retention
+CHEMBL941,C0151603,Generalised oedema
+CHEMBL941,C0151609,Scrotal oedema
+CHEMBL941,C0151664,Gastrointestinal perforation
+CHEMBL941,C0151686,Growth retardation
+CHEMBL941,C0151701,Pulmonary haemorrhage
+CHEMBL941,C0151723,Hypomagnesaemia
+CHEMBL941,C0151740,Intracranial pressure increased
+CHEMBL941,C0853149,Blood lactate dehydrogenase increased
+CHEMBL941,C0151786,Muscular weakness
+CHEMBL941,C0151798,Hepatic necrosis
+CHEMBL941,C0852911,Blood alkaline phosphatase increased
+CHEMBL941,C0151904,Aspartate aminotransferase increased
+CHEMBL941,C0151905,Alanine aminotransferase increased
+CHEMBL941,C0151908,Dry skin
+CHEMBL941,C0152031,Joint swelling
+CHEMBL941,C0152227,Lacrimation increased
+CHEMBL941,C0156404,Menstruation irregular
+CHEMBL941,C0162285,Eyelid oedema
+CHEMBL941,C0162557,Acute hepatic failure
+CHEMBL941,C0162830,Photosensitivity reaction
+CHEMBL941,C0162834,Skin hyperpigmentation
+CHEMBL941,C0162835,Leukoderma
+CHEMBL941,C0206062,Interstitial lung disease
+CHEMBL941,C0948525,Musculoskeletal stiffness
+CHEMBL941,C0221203,Rash vesicular
+CHEMBL941,C0221345,Nail discolouration
+CHEMBL941,C0231218,Malaise
+CHEMBL941,C0234215,Discomfort
+CHEMBL941,C0231528,Myalgia
+CHEMBL941,C0231807,Dyspnoea exertional
+CHEMBL941,C0232461,Increased appetite
+CHEMBL941,C0233794,Memory impairment
+CHEMBL941,C0235266,Eye irritation
+CHEMBL941,C0235378,Hepatotoxicity
+CHEMBL941,C0085932,Dermatitis bullous
+CHEMBL941,C0236124,Gastrointestinal obstruction
+CHEMBL941,C0237849,Skin exfoliation
+CHEMBL941,C0238198,Gastrointestinal stromal tumour
+CHEMBL941,C0239981,Hypoalbuminaemia
+CHEMBL941,C0020453,Hyperaesthesia
+CHEMBL941,C0242184,Hypoxia
+CHEMBL941,C0242350,Erectile dysfunction
+CHEMBL941,C2363730,Oropharyngeal discomfort
+CHEMBL941,C0243026,Sepsis
+CHEMBL941,C0264490,Acute respiratory failure
+CHEMBL941,C0267792,Hepatobiliary disease
+CHEMBL941,C0271051,Macular oedema
+CHEMBL941,C0277925,Peripheral coldness
+CHEMBL941,C0311468,Blood bilirubin increased
+CHEMBL941,C0314719,Dry eye
+CHEMBL941,C0333355,Mucosal inflammation
+CHEMBL941,C0333516,Tumour necrosis
+CHEMBL941,C0344232,Vision blurred
+CHEMBL941,C0346421,Chronic eosinophilic leukaemia
+CHEMBL941,C0376545,Haematological malignancy
+CHEMBL941,C0392386,Platelet count decreased
+CHEMBL941,C0423798,Increased tendency to bruise
+CHEMBL941,C0424813,Orbital oedema
+CHEMBL941,C0473311,Haemorrhagic ovarian cyst
+CHEMBL941,C0497156,Lymphadenopathy
+CHEMBL941,C0542571,Face oedema
+CHEMBL941,C0546956,Onychoclasis
+CHEMBL941,C0549622,Sexual dysfunction
+CHEMBL941,C0235416,Blood uric acid increased
+CHEMBL941,C0740394,Hyperuricaemia
+CHEMBL941,C0743680,Eye oedema
+CHEMBL941,C0746883,Febrile neutropenia
+CHEMBL941,C0748536,Scleral haemorrhage
+CHEMBL941,C0750394,White blood cell count decreased
+CHEMBL941,C0836924,Thrombocytosis
+CHEMBL941,C0151479,Amylase increased
+CHEMBL941,C0853697,Neutrophil count decreased
+CHEMBL941,C0877055,Acute generalised exanthematous pustulosis
+CHEMBL941,C0877584,Tumour haemorrhage
+CHEMBL941,C0917801,Insomnia
+CHEMBL941,C0919874,Post procedural haemorrhage
+CHEMBL941,C1167791,Skin toxicity
+CHEMBL941,C1258215,Ileus
+CHEMBL941,C1274594,Lichenoid keratosis
+CHEMBL941,C0018932,Haematochezia
+CHEMBL941,C1384666,Hearing impaired
+CHEMBL941,C0011053,Deafness
+CHEMBL941,C2225524,Breast enlargement
+CHEMBL941,C2830004,Somnolence
+CHEMBL941,C2937358,Cerebral haemorrhage
