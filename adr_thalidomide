@@ -1,0 +1,296 @@
+compound_id,adr_id,adr_term
+CHEMBL468,C0000772,Multiple congenital abnormalities
+CHEMBL468,C0001175,Acquired immunodeficiency syndrome
+CHEMBL468,C0001824,Agranulocytosis
+CHEMBL468,C0001925,Albuminuria
+CHEMBL468,C0002170,Alopecia
+CHEMBL468,C0002418,Amblyopia
+CHEMBL468,C0002453,Amenorrhoea
+CHEMBL468,C0002622,Amnesia
+CHEMBL468,C0002726,Amyloidosis
+CHEMBL468,C0002871,Anaemia
+CHEMBL468,C0002874,Aplastic anaemia
+CHEMBL468,C0002884,Hypochromic anaemia
+CHEMBL468,C0002886,Anaemia macrocytic
+CHEMBL468,C0002888,Anaemia megaloblastic
+CHEMBL468,C0002962,Angina pectoris
+CHEMBL468,C0002994,Angioedema
+CHEMBL468,C0232462,Decreased appetite
+CHEMBL468,C0003467,Anxiety
+CHEMBL468,C0003578,Apnoea
+CHEMBL468,C0003811,Arrhythmia
+CHEMBL468,C0003862,Arthralgia
+CHEMBL468,C0948594,Musculoskeletal discomfort
+CHEMBL468,C0003864,Arthritis
+CHEMBL468,C0003962,Ascites
+CHEMBL468,C0004093,Asthenia
+CHEMBL468,C0004134,Ataxia
+CHEMBL468,C0004238,Atrial fibrillation
+CHEMBL468,C0004245,Atrioventricular block
+CHEMBL468,C0006266,Bronchospasm
+CHEMBL468,C0007787,Transient ischaemic attack
+CHEMBL468,C0008311,Cholangitis
+CHEMBL468,C0008370,Cholestasis
+CHEMBL468,C0009319,Colitis
+CHEMBL468,C0009676,Confusional state
+CHEMBL468,C1443060,Feeling abnormal
+CHEMBL468,C0009763,Conjunctivitis
+CHEMBL468,C0009806,Constipation
+CHEMBL468,C0010520,Cyanosis
+CHEMBL468,C0011053,Deafness
+CHEMBL468,C0855242,Disturbance in sexual arousal
+CHEMBL468,C0011124,Libido decreased
+CHEMBL468,C0011168,Dysphagia
+CHEMBL468,C0011175,Dehydration
+CHEMBL468,C0011304,Demyelination
+CHEMBL468,C0011570,Depression
+CHEMBL468,C0011606,Dermatitis exfoliative
+CHEMBL468,C0011849,Diabetes mellitus
+CHEMBL468,C0011991,Diarrhoea
+CHEMBL468,C0012569,Diplopia
+CHEMBL468,C0012833,Dizziness
+CHEMBL468,C2830004,Somnolence
+CHEMBL468,C0013378,Dysgeusia
+CHEMBL468,C0013384,Dyskinesia
+CHEMBL468,C0013395,Dyspepsia
+CHEMBL468,C0013404,Dyspnoea
+CHEMBL468,C0013595,Eczema
+CHEMBL468,C0013604,Oedema
+CHEMBL468,C0013922,Embolism
+CHEMBL468,C0014394,Enuresis
+CHEMBL468,C0014457,Eosinophilia
+CHEMBL468,C0014518,Toxic epidermal necrolysis
+CHEMBL468,C0014549,Grand mal convulsion
+CHEMBL468,C0014591,Epistaxis
+CHEMBL468,C0014724,Eructation
+CHEMBL468,C0014742,Erythema multiforme
+CHEMBL468,C0014743,Erythema nodosum
+CHEMBL468,C0014868,Oesophagitis
+CHEMBL468,C0015230,Rash
+CHEMBL468,C0011603,Dermatitis
+CHEMBL468,C0015672,Fatigue
+CHEMBL468,C0016204,Flatulence
+CHEMBL468,C0017160,Gastroenteritis
+CHEMBL468,C0017181,Gastrointestinal haemorrhage
+CHEMBL468,C0018418,Gynaecomastia
+CHEMBL468,C0018681,Headache
+CHEMBL468,C0018790,Cardiac arrest
+CHEMBL468,C0018801,Cardiac failure
+CHEMBL468,C0018802,Cardiac failure congestive
+CHEMBL468,C0018965,Haematuria
+CHEMBL468,C0019158,Hepatitis
+CHEMBL468,C0019209,Hepatomegaly
+CHEMBL468,C0019270,Hernia
+CHEMBL468,C1266194,Hodgkin's disease lymphocyte predominance type stage unspecified
+CHEMBL468,C0152267,Hodgkin's disease lymphocyte depletion type stage unspecified
+CHEMBL468,C0019829,Hodgkin's disease
+CHEMBL468,C0020039,Hostility
+CHEMBL468,C0020433,Hyperbilirubinaemia
+CHEMBL468,C0020437,Hypercalcaemia
+CHEMBL468,C0020443,Hypercholesterolaemia
+CHEMBL468,C0020453,Hyperaesthesia
+CHEMBL468,C0020456,Hyperglycaemia
+CHEMBL468,C0020461,Hyperkalaemia
+CHEMBL468,C0020473,Hyperlipidaemia
+CHEMBL468,C0020517,Hypersensitivity
+CHEMBL468,C0020538,Hypertension
+CHEMBL468,C0020580,Hypoaesthesia
+CHEMBL468,C0020598,Hypocalcaemia
+CHEMBL468,C0020615,Hypoglycaemia
+CHEMBL468,C0020621,Hypokalaemia
+CHEMBL468,C0020625,Hyponatraemia
+CHEMBL468,C0020639,Hypoproteinaemia
+CHEMBL468,C0020649,Hypotension
+CHEMBL468,C0020651,Orthostatic hypotension
+CHEMBL468,C0020676,Hypothyroidism
+CHEMBL468,C0263386,Ichthyosis acquired
+CHEMBL468,C0020757,Ichthyosis
+CHEMBL468,C0021141,Inappropriate antidiuretic hormone secretion
+CHEMBL468,C0021843,Intestinal obstruction
+CHEMBL468,C0021845,Intestinal perforation
+CHEMBL468,C0022354,Jaundice cholestatic
+CHEMBL468,C0029408,Osteoarthritis
+CHEMBL468,C0022408,Arthropathy
+CHEMBL468,C0022660,Renal failure acute
+CHEMBL468,C0037763,Muscle spasms
+CHEMBL468,C0023380,Lethargy
+CHEMBL468,C0023418,Leukaemia
+CHEMBL468,C0023440,Erythroleukaemia
+CHEMBL468,C0023467,Acute myeloid leukaemia
+CHEMBL468,C0085669,Acute leukaemia
+CHEMBL468,C0023473,Chronic myeloid leukaemia
+CHEMBL468,C0023518,Leukocytosis
+CHEMBL468,C0023530,Leukopenia
+CHEMBL468,C0151763,Hepatocellular injury
+CHEMBL468,C0239571,Foetor hepaticus
+CHEMBL468,C0024236,Lymphoedema
+CHEMBL468,C0024312,Lymphopenia
+CHEMBL468,C0025320,Menopause
+CHEMBL468,C0025874,Metrorrhagia
+CHEMBL468,C0026826,Hypertonia
+CHEMBL468,C0026986,Myelodysplastic syndrome
+CHEMBL468,C0027051,Myocardial infarction
+CHEMBL468,C0948089,Acute coronary syndrome
+CHEMBL468,C0027145,Myxoedema
+CHEMBL468,C0027497,Nausea
+CHEMBL468,C0027769,Nervousness
+CHEMBL468,C0233494,Tension
+CHEMBL468,C0027796,Neuralgia
+CHEMBL468,C0027813,Neuritis
+CHEMBL468,C0031117,Neuropathy peripheral
+CHEMBL468,C0027947,Neutropenia
+CHEMBL468,C0028738,Nystagmus
+CHEMBL468,C0028961,Oliguria
+CHEMBL468,C1142011,Orchitis noninfective
+CHEMBL468,C0029191,Orchitis
+CHEMBL468,C0030252,Palpitations
+CHEMBL468,C0030305,Pancreatitis
+CHEMBL468,C0030312,Pancytopenia
+CHEMBL468,C0030554,Paraesthesia
+CHEMBL468,C0242422,Parkinsonism
+CHEMBL468,C0030567,Parkinson's disease
+CHEMBL468,C0031046,Pericarditis
+CHEMBL468,C0031099,Periodontitis
+CHEMBL468,C0031154,Peritonitis
+CHEMBL468,C0031256,Petechiae
+CHEMBL468,C0031350,Pharyngitis
+CHEMBL468,C0032227,Pleural effusion
+CHEMBL468,C0033687,Proteinuria
+CHEMBL468,C0948586,Protein urine present
+CHEMBL468,C0033774,Pruritus
+CHEMBL468,C0033860,Psoriasis
+CHEMBL468,C0034063,Pulmonary oedema
+CHEMBL468,C0034065,Pulmonary embolism
+CHEMBL468,C0034067,Emphysema
+CHEMBL468,C1368065,Vascular purpura
+CHEMBL468,C0034150,Purpura
+CHEMBL468,C0034359,Pyuria
+CHEMBL468,C0034642,Rales
+CHEMBL468,C0035078,Renal failure
+CHEMBL468,C0035333,Retinitis
+CHEMBL468,C0035455,Rhinitis
+CHEMBL468,C0036508,Seborrhoeic dermatitis
+CHEMBL468,C0036572,Convulsion
+CHEMBL468,C0037052,Sick sinus syndrome
+CHEMBL468,C0037199,Sinusitis
+CHEMBL468,C0037299,Skin ulcer
+CHEMBL468,C0038220,Status epilepticus
+CHEMBL468,C0038325,Stevens-Johnson syndrome
+CHEMBL468,C0038358,Gastric ulcer
+CHEMBL468,C0038362,Stomatitis
+CHEMBL468,C0038363,Aphthous stomatitis
+CHEMBL468,C0038454,Cerebrovascular accident
+CHEMBL468,C0020458,Hyperhidrosis
+CHEMBL468,C0039070,Syncope
+CHEMBL468,C0039231,Tachycardia
+CHEMBL468,C0040034,Thrombocytopenia
+CHEMBL468,C0340726,Embolism venous
+CHEMBL468,C0040046,Thrombophlebitis
+CHEMBL468,C0040053,Thrombosis
+CHEMBL468,C0040264,Tinnitus
+CHEMBL468,C0040460,Toothache
+CHEMBL468,C0040822,Tremor
+CHEMBL468,C0041364,Tumour lysis syndrome
+CHEMBL468,C0042023,Pollakiuria
+CHEMBL468,C0042109,Urticaria
+CHEMBL468,C0042373,Angiopathy
+CHEMBL468,C1142412,Vasodilation procedure
+CHEMBL468,C0042487,Venous thrombosis
+CHEMBL468,C0042571,Vertigo
+CHEMBL468,C0042963,Vomiting
+CHEMBL468,C0043094,Weight increased
+CHEMBL468,C0043096,Weight decreased
+CHEMBL468,C0043352,Dry mouth
+CHEMBL468,C0085576,Microcytic anaemia
+CHEMBL468,C0085593,Chills
+CHEMBL468,C0085610,Sinus bradycardia
+CHEMBL468,C0085624,Burning sensation
+CHEMBL468,C0085628,Stupor
+CHEMBL468,C0549249,Depressed level of consciousness
+CHEMBL468,C0085631,Agitation
+CHEMBL468,C0085633,Mood swings
+CHEMBL468,C0233472,Affect lability
+CHEMBL468,C0085649,Oedema peripheral
+CHEMBL468,C0270810,Peroneal nerve palsy
+CHEMBL468,C0149871,Deep vein thrombosis
+CHEMBL468,C0149931,Migraine
+CHEMBL468,C0151313,Peripheral sensory neuropathy
+CHEMBL468,C0948525,Musculoskeletal stiffness
+CHEMBL468,C1320474,Nuchal rigidity
+CHEMBL468,C0151477,Hormone level abnormal
+CHEMBL468,C0151539,Blood urea increased
+CHEMBL468,C0235431,Blood creatinine increased
+CHEMBL468,C0151596,Tongue discolouration
+CHEMBL468,C0151664,Gastrointestinal perforation
+CHEMBL468,C0151723,Hypomagnesaemia
+CHEMBL468,C3263723,Injury
+CHEMBL468,C0151744,Myocardial ischaemia
+CHEMBL468,C0853149,Blood lactate dehydrogenase increased
+CHEMBL468,C0151766,Liver function test abnormal
+CHEMBL468,C0151786,Muscular weakness
+CHEMBL468,C0237849,Skin exfoliation
+CHEMBL468,C0151799,Skin necrosis
+CHEMBL468,C0521591,Paraesthesia oral
+CHEMBL468,C0852911,Blood alkaline phosphatase increased
+CHEMBL468,C0085932,Dermatitis bullous
+CHEMBL468,C0085641,Rash pustular
+CHEMBL468,C0151888,Hyporeflexia
+CHEMBL468,C0151904,Aspartate aminotransferase increased
+CHEMBL468,C0151905,Alanine aminotransferase increased
+CHEMBL468,C0151907,Skin discolouration
+CHEMBL468,C0151908,Dry skin
+CHEMBL468,C0151942,Arterial thrombosis
+CHEMBL468,C0152025,Polyneuropathy
+CHEMBL468,C0162830,Photosensitivity reaction
+CHEMBL468,C0206062,Interstitial lung disease
+CHEMBL468,C0221100,Hangover
+CHEMBL468,C0231170,Disability
+CHEMBL468,C0231218,Malaise
+CHEMBL468,C0234215,Discomfort
+CHEMBL468,C0231528,Myalgia
+CHEMBL468,C0232461,Increased appetite
+CHEMBL468,C0232910,Teratogenicity
+CHEMBL468,C1306341,Mental disability
+CHEMBL468,C0233632,Thinking abnormal
+CHEMBL468,C0150450,Altered state of consciousness
+CHEMBL468,C0235146,Euphoric mood
+CHEMBL468,C0235660,Galactorrhoea
+CHEMBL468,C0852810,Blood creatinine decreased
+CHEMBL468,C0241228,Spleen palpable
+CHEMBL468,C0242350,Erectile dysfunction
+CHEMBL468,C0242656,Disease progression
+CHEMBL468,C0243026,Sepsis
+CHEMBL468,C0314719,Dry eye
+CHEMBL468,C0341047,Parotid gland enlargement
+CHEMBL468,C0342579,Electrolyte imbalance
+CHEMBL468,C0344232,Vision blurred
+CHEMBL468,C1510471,Hypovitaminosis
+CHEMBL468,C0000731,Abdominal distension
+CHEMBL468,C0392386,Platelet count decreased
+CHEMBL468,C0392699,Dysaesthesia
+CHEMBL468,C0423791,Rash maculo-papular
+CHEMBL468,C0424295,Hyperkinesia
+CHEMBL468,C0428977,Bradycardia
+CHEMBL468,C0497156,Lymphadenopathy
+CHEMBL468,C0497327,Dementia
+CHEMBL468,C0520966,Coordination abnormal
+CHEMBL468,C0521465,Toxic skin eruption
+CHEMBL468,C0542571,Face oedema
+CHEMBL468,C3665347,Visual impairment
+CHEMBL468,C0549475,Lipase increased
+CHEMBL468,C0549622,Sexual dysfunction
+CHEMBL468,C0575081,Gait disturbance
+CHEMBL468,C0702166,Acne
+CHEMBL468,C0235416,Blood uric acid increased
+CHEMBL468,C0740394,Hyperuricaemia
+CHEMBL468,C0746883,Febrile neutropenia
+CHEMBL468,C0853013,Diverticular perforation
+CHEMBL468,C0856054,Mental status changes
+CHEMBL468,C0917798,Cerebral ischaemia
+CHEMBL468,C0917801,Insomnia
+CHEMBL468,C0877517,Blood phosphorus decreased
+CHEMBL468,C0750394,White blood cell count decreased
+CHEMBL468,C1096448,Bronchopneumopathy
+CHEMBL468,C1384666,Hearing impaired
+CHEMBL468,C3160858,Posterior reversible encephalopathy syndrome
+CHEMBL468,C0549124,Embolism arterial
