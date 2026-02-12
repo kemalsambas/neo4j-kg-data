@@ -52,4 +52,16 @@ P42345,MTOR,hsa04630,JAK-STAT signaling pathway,KEGG
 P16234,PDGFRA,hsa04630,JAK-STAT signaling pathway,KEGG
 P09619,PDGFRB,hsa04630,JAK-STAT signaling pathway,KEGG
 P42336,PIK3CA,hsa04630,JAK-STAT signaling pathway,KEGG
+Q06187,BTK,hsa04662,B cell receptor signaling pathway,KEGG
+P07948,LYN,hsa04662,B cell receptor signaling pathway,KEGG
+P54760,EPHB4,hsa04360,Axon guidance,KEGG
+P12931,SRC,hsa04360,Axon guidance,KEGG
+P06241,FYN,hsa04360,Axon guidance,KEGG
+Q9UM73,ALK,hsa05200,pathway in cancer,KEGG
+P23458,JAK1,hsa05200,pathway in cancer,KEGG
+O60674,JAK2,hsa05200,pathway in cancer,KEGG
+P52333,JAK3,hsa05200,pathway in cancer,KEGG
+P08581,MET,hsa05200,pathway in cancer,KEGG
+P12634,PDGFRA,hsa05200,pathway in cancer,KEGG
+
 
