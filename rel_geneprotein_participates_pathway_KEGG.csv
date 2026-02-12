@@ -63,6 +63,9 @@ O60674,JAK2,hsa05200,pathway in cancer,KEGG
 P52333,JAK3,hsa05200,pathway in cancer,KEGG
 P08581,MET,hsa05200,pathway in cancer,KEGG
 P16234,PDGFRA,hsa05200,pathway in cancer,KEGG
+P06239,LCK,hsa06239,T cell receptor signaling pathway,KEGG
+Q96SW2,CRBN,hsa04121,Ubiquitin system,KEGG
+
 
 
 
