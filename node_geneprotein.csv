@@ -47,9 +47,12 @@ P05121,SERPINE1,Plasminogen activator inhibitor 1 (PAI) (PAI-1) (Endothelial pla
 P05230,FGF1,Fibroblast growth factor 1 (FGF-1) (Acidic fibroblast growth factor) (aFGF) (Endothelial cell growth factor) (ECGF) (Heparin-binding growth factor 1) (HBGF-1),P05230,UniProt;GO
 P05412,JUN,Transcription factor Jun (Activator protein 1) (AP1) (Proto-oncogene c-Jun) (Transcription factor AP-1 subunit Jun) (V-jun avian sarcoma virus 17 oncogene homolog) (p39),P05412,UniProt;GO
 P05556,ITGB1,Integrin beta-1 (Fibronectin receptor subunit beta) (Glycoprotein IIa) (GPIIA) (VLA-4 subunit beta) (CD antigen CD29),P05556,UniProt;GO
+P06239,LCK,Tyrosine-protein kinase Lck,P06239,UniProt;GO
+P06241,FYN,Tyrosine-protein kinase Fyn,P06241,UniProt;GO
 P06576,ATP5F1B,"ATP synthase F(1) complex subunit beta, mitochondrial (EC 7.1.2.2) (ATP synthase F1 subunit beta)",P06576,UniProt;GO
 P06756,ITGAV,Integrin alpha-V (Vitronectin receptor) (Vitronectin receptor subunit alpha) (CD antigen CD51) [Cleaved into: Integrin alpha-V heavy chain; Integrin alpha-V light chain],P06756,UniProt;GO
 P07355,ANXA2,Annexin A2 (Annexin II) (Annexin-2) (Calpactin I heavy chain) (Calpactin-1 heavy chain) (Chromobindin-8) (Lipocortin II) (Placental anticoagulant protein IV) (PAP-IV) (Protein I) (p36),P07355,UniProt;GO
+P07948,LYN,Tyrosine-protein kinase Lyn,P07948,UniProt;GO
 P07996,THBS1,Thrombospondin-1 (Glycoprotein G),P07996,UniProt;GO
 P08253,MMP2,72 kDa type IV collagenase (EC 3.4.24.24) (72 kDa gelatinase) (Gelatinase A) (Matrix metalloproteinase-2) (MMP-2) (TBE-1) [Cleaved into: PEX],P08253,UniProt;GO
 P08514,ITGA2B,"Integrin alpha-IIb (GPalpha IIb) (GPIIb) (Platelet membrane glycoprotein IIb) (CD antigen CD41) [Cleaved into: Integrin alpha-IIb heavy chain; Integrin alpha-IIb light chain, form 1; Integrin alpha-IIb light chain, form 2]",P08514,UniProt;GO
@@ -166,6 +169,7 @@ Q02763,TEK,Angiopoietin-1 receptor (EC 2.7.10.1) (Endothelial tyrosine kinase) (
 Q03135,CAV1,Caveolin-1,Q03135,UniProt;GO
 Q03169,TNFAIP2,Tumor necrosis factor alpha-induced protein 2 (TNF alpha-induced protein 2) (Primary response gene B94 protein),Q03169,UniProt;GO
 Q05397,PTK2,Focal adhesion kinase 1 (FADK 1) (EC 2.7.10.2) (Focal adhesion kinase-related nonkinase) (FRNK) (Protein phosphatase 1 regulatory subunit 71) (PPP1R71) (Protein-tyrosine kinase 2) (p125FAK) (pp125FAK),Q05397,UniProt;GO
+Q06187,BTK,Tyrosine-protein kinase BTK,Q06187,UniProt;GO
 Q06330,RBPJ,Recombining binding protein suppressor of hairless (CBF-1) (J kappa-recombination signal-binding protein) (RBP-J kappa) (RBP-J) (RBP-JK) (Renal carcinoma antigen NY-REN-30),Q06330,UniProt;GO
 Q07075,ENPEP,Glutamyl aminopeptidase (EAP) (EC 3.4.11.7) (Aminopeptidase A) (AP-A) (Differentiation antigen gp160) (CD antigen CD249),Q07075,UniProt;GO
 Q08431,MFGE8,Lactadherin (Breast epithelial antigen BA46) (HMFG) (MFGM) (Milk fat globule-EGF factor 8) (MFG-E8) (SED1) [Cleaved into: Lactadherin short form; Medin],Q08431,UniProt;GO
@@ -239,6 +243,7 @@ Q96LR9,APOLD1,Apolipoprotein L domain-containing protein 1 (Vascular early respo
 Q96MM6,HSPA12B,Heat shock 70 kDa protein 12B (Heat shock protein family A member 12B),Q96MM6,UniProt;GO
 Q96PE1,ADGRA2,Adhesion G protein-coupled receptor A2 (G-protein coupled receptor 124) (Tumor endothelial marker 5),Q96PE1,UniProt;GO
 Q96PH1,NOX5,NADPH oxidase 5 (EC 1.6.3.-),Q96PH1,UniProt;GO
+Q96SW2,CRBN,Protein cereblon,Q96SW2,UniProt;GO
 Q99542,MMP19,Matrix metalloproteinase-19 (MMP-19) (EC 3.4.24.-) (Matrix metalloproteinase RASI) (Matrix metalloproteinase-18) (MMP-18),Q99542,UniProt;GO
 Q99687,MEIS3,Homeobox protein Meis3 (Meis1-related protein 2),Q99687,UniProt;GO
 Q99814,EPAS1,Endothelial PAS domain-containing protein 1 (EPAS-1) (Basic-helix-loop-helix-PAS protein MOP2) (Class E basic helix-loop-helix protein 73) (bHLHe73) (HIF-1-alpha-like factor) (HLF) (Hypoxia-inducible factor 2-alpha) (HIF-2-alpha) (HIF2-alpha) (Member of PAS protein 2) (PAS domain-containing protein 2),Q99814,UniProt;GO
@@ -275,6 +280,7 @@ Q9NZ08,ERAP1,Endoplasmic reticulum aminopeptidase 1 (EC 3.4.11.-) (ARTS-1) (Adip
 Q9NZI7,UBP1,Upstream-binding protein 1 (Transcription factor LBP-1),Q9NZI7,UniProt;GO
 Q9NZJ5,EIF2AK3,Eukaryotic translation initiation factor 2-alpha kinase 3 (EC 2.7.11.1) (PRKR-like endoplasmic reticulum kinase) (Pancreatic eIF2-alpha kinase) (HsPEK) (Protein tyrosine kinase EIF2AK3) (EC 2.7.10.2),Q9NZJ5,UniProt;GO
 Q9UHF1,EGFL7,Epidermal growth factor-like protein 7 (EGF-like protein 7) (Multiple epidermal growth factor-like domains protein 7) (Multiple EGF-like domains protein 7) (NOTCH4-like protein) (Vascular endothelial statin) (VE-statin) (Zneu1),Q9UHF1,UniProt;GO
+Q9UM73,ALK,ALK tyrosine kinase receptor,Q9UM73,UniProt;GO
 Q9UHN6,CEMIP2,Cell surface hyaluronidase CEMIP2 (EC 3.2.1.35) (Cell migration-inducing hyaluronidase 2) (Transmembrane protein 2),Q9UHN6,UniProt;GO
 Q9UHW9,SLC12A6,Solute carrier family 12 member 6 (Electroneutral potassium-chloride cotransporter 3) (K-Cl cotransporter 3),Q9UHW9,UniProt;GO
 Q9UII2,ATP5IF1,"ATPase inhibitor, mitochondrial (ATP synthase F1 subunit epsilon) (Inhibitor of F(1)F(o)-ATPase) (IF(1)) (IF1)",Q9UII2,UniProt;GO
