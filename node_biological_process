@@ -2,7 +2,7 @@ bp_id,bp_name,source
 GO:0001525,angiogenesis,GO
 GO:0001568,blood vessel development,GO
 GO:0045765,regulation of angiogenesis,GO
-GO:0001935,endothelial cell migration,GO
+GO:0043542,endothelial cell migration,GO
 GO:0001944,vasculature development,GO
 GO:0048514,blood vessel morphogenesis,GO
 GO:0045766,post regulation of angiogenesis,GO
